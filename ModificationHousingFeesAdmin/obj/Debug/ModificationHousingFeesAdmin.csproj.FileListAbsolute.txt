@@ -1,0 +1,854 @@
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\ApplicationInsights.config
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\ModificationHousingFeesAdmin.dll.config
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\ModificationHousingFeesAdmin.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\ModificationHousingFeesAdmin.pdb
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\csc.exe
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\csc.exe.config
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\csc.rsp
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\csi.exe
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\csi.exe.config
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\csi.rsp
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\System.AppContext.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\System.Collections.Immutable.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\System.Console.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.Compression.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.FileSystem.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.Pipes.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\System.Reflection.Metadata.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.AccessControl.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Claims.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\System.ValueTuple.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.XPath.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\vbc.exe
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\vbc.exe.config
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\vbc.rsp
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\VBCSCompiler.exe
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\roslyn\VBCSCompiler.exe.config
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\Antlr3.Runtime.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\Elmah.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\EntityFramework.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\EntityFramework.SqlServer.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\GridMvc.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\Microsoft.AI.DependencyCollector.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\Microsoft.AI.Web.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\Microsoft.AI.WindowsServer.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\Microsoft.ApplicationInsights.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\Microsoft.Web.Infrastructure.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\Newtonsoft.Json.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\PagedList.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\PagedList.Mvc.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\RestSharp.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\System.Web.Helpers.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\System.Web.Mvc.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\System.Web.Optimization.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\System.Web.Razor.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Deployment.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Razor.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\WebGrease.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\System.Data.SQLite.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\VistaDB.NET20.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\Elmah.pdb
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\Elmah.xml
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\EntityFramework.xml
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\EntityFramework.SqlServer.xml
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\PagedList.xml
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\PagedList.Mvc.xml
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\System.Web.Helpers.xml
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\System.Web.Mvc.xml
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\System.Web.Optimization.xml
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\System.Web.Razor.xml
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.xml
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Deployment.xml
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Razor.xml
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\Newtonsoft.Json.xml
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\Antlr3.Runtime.pdb
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\Microsoft.AI.DependencyCollector.xml
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\Microsoft.AI.WindowsServer.xml
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\Microsoft.AI.Web.xml
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.csproj.CoreCompileInputs.cache
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.csproj.CopyComplete
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.pdb
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\bin\log4net.dll
+F:\Modification Housing Fees\ModificationHousingFeesAdmin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.csprojAssemblyReference.cache
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\ApplicationInsights.config
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\log4net.config
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\ModificationHousingFeesAdmin.dll.config
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\ModificationHousingFeesAdmin.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\ModificationHousingFeesAdmin.pdb
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csc.exe
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csc.exe.config
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csc.rsp
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csi.exe
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csi.exe.config
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csi.rsp
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.AppContext.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Collections.Immutable.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Console.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.Compression.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.FileSystem.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.Pipes.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Reflection.Metadata.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.AccessControl.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Claims.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.ValueTuple.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.XPath.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\vbc.exe
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\vbc.exe.config
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\vbc.rsp
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\VBCSCompiler.exe
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\roslyn\VBCSCompiler.exe.config
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\Antlr3.Runtime.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.SqlServer.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\GridMvc.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\log4net.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.DependencyCollector.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.Web.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.WindowsServer.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.ApplicationInsights.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.Web.Infrastructure.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\Newtonsoft.Json.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\PagedList.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\PagedList.Mvc.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Helpers.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Mvc.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Optimization.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Razor.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Deployment.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Razor.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\WebGrease.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.xml
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.SqlServer.xml
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\PagedList.xml
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\PagedList.Mvc.xml
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Helpers.xml
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Mvc.xml
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Optimization.xml
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Razor.xml
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.xml
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Deployment.xml
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Razor.xml
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\Newtonsoft.Json.xml
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\Antlr3.Runtime.pdb
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.DependencyCollector.xml
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.WindowsServer.xml
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.Web.xml
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.csproj.CoreCompileInputs.cache
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.csproj.CopyComplete
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.dll
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.pdb
+F:\Modification Housing Fees\SVN source code\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.csprojAssemblyReference.cache
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\ApplicationInsights.config
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\log4net.config
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\ModificationHousingFeesAdmin.dll.config
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\ModificationHousingFeesAdmin.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\ModificationHousingFeesAdmin.pdb
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csc.exe
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csc.exe.config
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csc.rsp
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csi.exe
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csi.exe.config
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csi.rsp
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.AppContext.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Collections.Immutable.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Console.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.Compression.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.FileSystem.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.Pipes.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Reflection.Metadata.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.AccessControl.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Claims.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.ValueTuple.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.XPath.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\vbc.exe
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\vbc.exe.config
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\vbc.rsp
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\VBCSCompiler.exe
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\roslyn\VBCSCompiler.exe.config
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\Antlr3.Runtime.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.SqlServer.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\GridMvc.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.DependencyCollector.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.Web.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.WindowsServer.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.ApplicationInsights.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.Web.Infrastructure.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\Newtonsoft.Json.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\PagedList.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\PagedList.Mvc.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\System.Diagnostics.DiagnosticSource.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\System.Net.Http.Formatting.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Helpers.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Http.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Http.WebHost.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Mvc.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Optimization.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Razor.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Deployment.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Razor.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\WebGrease.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.xml
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.SqlServer.xml
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\PagedList.xml
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\PagedList.Mvc.xml
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\System.Net.Http.Formatting.xml
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Http.xml
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Http.WebHost.xml
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Helpers.xml
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Mvc.xml
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Optimization.xml
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Razor.xml
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.xml
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Deployment.xml
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Razor.xml
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\Newtonsoft.Json.xml
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\Antlr3.Runtime.pdb
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\System.Diagnostics.DiagnosticSource.xml
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.DependencyCollector.xml
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.WindowsServer.xml
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.Web.xml
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.csprojAssemblyReference.cache
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.csproj.CoreCompileInputs.cache
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.csproj.CopyComplete
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.dll
+D:\DM\Housing Fees\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.pdb
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\ApplicationInsights.config
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\log4net.config
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\ModificationHousingFeesAdmin.dll.config
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\ModificationHousingFeesAdmin.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\ModificationHousingFeesAdmin.pdb
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csc.exe
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csc.exe.config
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csc.rsp
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csi.exe
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csi.exe.config
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csi.rsp
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.AppContext.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Collections.Immutable.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Console.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.Compression.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.FileSystem.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.Pipes.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Reflection.Metadata.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.AccessControl.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Claims.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.ValueTuple.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.XPath.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\vbc.exe
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\vbc.exe.config
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\vbc.rsp
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\VBCSCompiler.exe
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\VBCSCompiler.exe.config
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Antlr3.Runtime.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.SqlServer.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\GridMvc.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.DependencyCollector.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.Web.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.WindowsServer.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.ApplicationInsights.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.Web.Infrastructure.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Newtonsoft.Json.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\PagedList.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\PagedList.Mvc.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Net.Http.Formatting.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Helpers.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Http.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Http.WebHost.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Mvc.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Optimization.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Razor.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Deployment.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Razor.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\WebGrease.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.xml
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.SqlServer.xml
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\PagedList.xml
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\PagedList.Mvc.xml
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Net.Http.Formatting.xml
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Http.xml
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Http.WebHost.xml
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Helpers.xml
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Mvc.xml
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Optimization.xml
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Razor.xml
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.xml
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Deployment.xml
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Razor.xml
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Newtonsoft.Json.xml
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Antlr3.Runtime.pdb
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.DependencyCollector.xml
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.WindowsServer.xml
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.Web.xml
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.csproj.CoreCompileInputs.cache
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.csproj.CopyComplete
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.dll
+D:\Asma\Project\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.pdb
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\ApplicationInsights.config
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\log4net.config
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\ModificationHousingFeesAdmin.dll.config
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\ModificationHousingFeesAdmin.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\ModificationHousingFeesAdmin.pdb
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csc.exe
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csc.exe.config
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csc.rsp
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csi.exe
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csi.exe.config
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csi.rsp
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.AppContext.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Collections.Immutable.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Console.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.Compression.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.FileSystem.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.Pipes.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.AccessControl.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Claims.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.ValueTuple.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.XPath.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\vbc.exe
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\vbc.exe.config
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\vbc.rsp
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\VBCSCompiler.exe
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\VBCSCompiler.exe.config
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Antlr3.Runtime.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.SqlServer.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\GridMvc.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.DependencyCollector.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.Web.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.WindowsServer.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.ApplicationInsights.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.Web.Infrastructure.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Newtonsoft.Json.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\PagedList.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\PagedList.Mvc.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Diagnostics.DiagnosticSource.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Net.Http.Formatting.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Helpers.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Http.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Http.WebHost.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Mvc.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Optimization.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Razor.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Deployment.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Razor.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\WebGrease.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.xml
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.SqlServer.xml
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\PagedList.xml
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\PagedList.Mvc.xml
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Net.Http.Formatting.xml
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Http.xml
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Http.WebHost.xml
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Helpers.xml
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Mvc.xml
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Optimization.xml
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Razor.xml
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.xml
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Deployment.xml
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Razor.xml
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Newtonsoft.Json.xml
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Antlr3.Runtime.pdb
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Diagnostics.DiagnosticSource.xml
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.DependencyCollector.xml
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.WindowsServer.xml
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.Web.xml
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.csproj.CoreCompileInputs.cache
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.csproj.CopyComplete
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.dll
+D:\ASM_SHARE\Michel_handOver\HouesingFee\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.pdb
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\ApplicationInsights.config
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\log4net.config
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\ModificationHousingFeesAdmin.dll.config
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\ModificationHousingFeesAdmin.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\ModificationHousingFeesAdmin.pdb
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csc.exe
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csc.exe.config
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csc.rsp
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csi.exe
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csi.exe.config
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csi.rsp
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.AppContext.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Collections.Immutable.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Console.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.Compression.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.FileSystem.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.Pipes.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.AccessControl.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Claims.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.ValueTuple.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.XPath.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\vbc.exe
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\vbc.exe.config
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\vbc.rsp
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\VBCSCompiler.exe
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\roslyn\VBCSCompiler.exe.config
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Antlr3.Runtime.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.SqlServer.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\GridMvc.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.DependencyCollector.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.Web.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.WindowsServer.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.ApplicationInsights.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.Web.Infrastructure.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Newtonsoft.Json.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\PagedList.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\PagedList.Mvc.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Diagnostics.DiagnosticSource.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Net.Http.Formatting.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Helpers.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Http.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Http.WebHost.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Mvc.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Optimization.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Razor.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Deployment.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Razor.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\WebGrease.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.xml
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.SqlServer.xml
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\PagedList.xml
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\PagedList.Mvc.xml
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Net.Http.Formatting.xml
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Http.xml
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Http.WebHost.xml
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Helpers.xml
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Mvc.xml
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Optimization.xml
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Razor.xml
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.xml
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Deployment.xml
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Razor.xml
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Newtonsoft.Json.xml
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Antlr3.Runtime.pdb
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\System.Diagnostics.DiagnosticSource.xml
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.DependencyCollector.xml
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.WindowsServer.xml
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.Web.xml
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.csproj.CoreCompileInputs.cache
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.csproj.CopyComplete
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.dll
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.pdb
+D:\ASM_SHARE\Michel_handOver\Micheal_Wetrasnfer\source_admin_work\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.csprojAssemblyReference.cache
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\ApplicationInsights.config
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\log4net.config
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\ModificationHousingFeesAdmin.dll.config
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\ModificationHousingFeesAdmin.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\ModificationHousingFeesAdmin.pdb
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csc.exe
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csc.exe.config
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csc.rsp
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csi.exe
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csi.exe.config
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csi.rsp
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.AppContext.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Collections.Immutable.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Console.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.Compression.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.FileSystem.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.Pipes.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Reflection.Metadata.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.AccessControl.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Claims.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.ValueTuple.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.XPath.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\vbc.exe
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\vbc.exe.config
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\vbc.rsp
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\VBCSCompiler.exe
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\roslyn\VBCSCompiler.exe.config
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\Antlr3.Runtime.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.SqlServer.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\GridMvc.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.DependencyCollector.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.Web.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.WindowsServer.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.ApplicationInsights.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.Web.Infrastructure.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\Newtonsoft.Json.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\PagedList.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\PagedList.Mvc.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\System.Diagnostics.DiagnosticSource.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\System.Net.Http.Formatting.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Helpers.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Http.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Http.WebHost.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Mvc.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Optimization.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Razor.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Deployment.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Razor.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\WebGrease.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.xml
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.SqlServer.xml
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\PagedList.xml
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\PagedList.Mvc.xml
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\System.Net.Http.Formatting.xml
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Http.xml
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Http.WebHost.xml
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Helpers.xml
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Mvc.xml
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Optimization.xml
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Razor.xml
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.xml
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Deployment.xml
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Razor.xml
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\Newtonsoft.Json.xml
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\Antlr3.Runtime.pdb
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\System.Diagnostics.DiagnosticSource.xml
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.DependencyCollector.xml
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.WindowsServer.xml
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.Web.xml
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HF\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.csproj.CoreCompileInputs.cache
+D:\HF\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.csproj.CopyComplete
+D:\HF\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.pdb
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\AutoMapper.dll
+D:\HF\source_admin\ModificationHousingFeesAdmin\bin\AutoMapper.xml
+D:\HF\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.csprojAssemblyReference.cache
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\ApplicationInsights.config
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\log4net.config
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\ModificationHousingFeesAdmin.dll.config
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\ModificationHousingFeesAdmin.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\ModificationHousingFeesAdmin.pdb
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csc.exe
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csc.exe.config
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csc.rsp
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csi.exe
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csi.exe.config
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\csi.rsp
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.AppContext.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Collections.Immutable.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Console.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.Compression.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.FileSystem.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.IO.Pipes.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Reflection.Metadata.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.AccessControl.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Claims.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.ValueTuple.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.XPath.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\vbc.exe
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\vbc.exe.config
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\vbc.rsp
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\VBCSCompiler.exe
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\roslyn\VBCSCompiler.exe.config
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\Antlr3.Runtime.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\AutoMapper.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.SqlServer.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\GridMvc.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.DependencyCollector.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.Web.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.WindowsServer.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.ApplicationInsights.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.Web.Infrastructure.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\Newtonsoft.Json.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\PagedList.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\PagedList.Mvc.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\System.Diagnostics.DiagnosticSource.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\System.Net.Http.Formatting.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Helpers.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Http.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Http.WebHost.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Mvc.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Optimization.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Razor.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Deployment.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Razor.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\WebGrease.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\AutoMapper.xml
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.xml
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\EntityFramework.SqlServer.xml
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\PagedList.xml
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\PagedList.Mvc.xml
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\System.Net.Http.Formatting.xml
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Http.xml
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Http.WebHost.xml
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Helpers.xml
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Mvc.xml
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Optimization.xml
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\System.Web.Razor.xml
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.xml
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Deployment.xml
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\System.Web.WebPages.Razor.xml
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\Newtonsoft.Json.xml
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\Antlr3.Runtime.pdb
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\System.Diagnostics.DiagnosticSource.xml
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.DependencyCollector.xml
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.WindowsServer.xml
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.AI.Web.xml
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.csproj.AssemblyReference.cache
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.csproj.CoreCompileInputs.cache
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.csproj.CopyComplete
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.dll
+\\PRDVDIFS01.dm.ae\Dist\Folders\rapid_vkumar\Documents\dmHousingFess\source_admin\ModificationHousingFeesAdmin\obj\Debug\ModificationHousingFeesAdmin.pdb

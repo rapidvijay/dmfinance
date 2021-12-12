@@ -1,0 +1,525 @@
+﻿
+@model ModificationHousingFeesAdmin.ViewModel.RequestModifyHousingFeesViewModel
+
+@{
+    ViewBag.Title = "get Housing Fees Request Data";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<script>
+    function approveReviewStep() {
+        debugger;
+        var Remarks = $("#Employee_Comment").val();
+        if (isNullOrEmpty(Remarks)) {
+            alert("Please Enter Employee Remarks");
+            return false;
+        }
+
+        if (Remarks.length > 500) {
+            alert("Remarks should be max 500 characters");
+            return false;
+        }
+
+        document.getElementById("formId").action = "approveReviewStep";
+        document.getElementById("formId").method = "post";
+        document.getElementById("formId").submit();
+    }
+
+    function rejectRecord() {
+        var Remarks = $("#RejectionReason").val();
+        if (isNullOrEmpty(Remarks)) {
+            alert("Please Enter Rejection Reason");
+            return false;
+        }
+
+        if (Remarks.length > 500) {
+            alert("Rejection Reason should be max 500 characters");
+            return false;
+        }
+
+        document.getElementById("formId").action = "rejectRecord?reject=true";
+        document.getElementById("formId").method = "post";
+        document.getElementById("formId").submit();
+    }
+
+    function approveManualUpdate() {
+        debugger;
+        var Remarks = $("#Employee_Comment").val();
+
+        if (isNullOrEmpty(Remarks)) {
+            alert("Please Enter Employee Remarks");
+            return false;
+        }
+
+        if (Remarks.length > 500) {
+            alert("Remarks should be max 500 characters");
+            return false;
+        }
+
+        document.getElementById("formId").action = "approveManualUpdate";
+        document.getElementById("formId").method = "post";
+        document.getElementById("formId").submit();
+    }
+
+    function lockRecord() {
+        //var Remarks = $("#Employee_Comment").val();
+        //if (isNullOrEmpty(Remarks)) {
+        //    alert("Please Enter Employee Remarks");
+        //    return false;
+        //}
+
+        //if (Remarks.length > 500) {
+        //    alert("Remarks should be max 500 characters");
+        //    return false;
+        //}
+
+
+        document.getElementById("formId").action = "lockRecord";
+        document.getElementById("formId").method = "post";
+        document.getElementById("formId").submit();
+    }
+
+    function unlockRecord() {
+        //var Remarks = $("#Employee_Comment").val();
+        //if (isNullOrEmpty(Remarks)) {
+        //    alert("Please Enter Employee Remarks");
+        //    return false;
+        //}
+
+        //if (Remarks.length > 500) {
+        //    alert("Remarks should be max 500 characters");
+        //    return false;
+        //}
+
+        document.getElementById("formId").action = "unlockRecord";
+        document.getElementById("formId").method = "post";
+        document.getElementById("formId").submit();
+    }
+
+
+
+    function isNullOrEmpty(value) {
+        return (value == null || value.trim() === "");
+    }
+</script>
+
+
+
+
+<div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2 main">
+
+    <div class="breadcrumb flat" >
+        <a href="#"   @(Model.isStatusNew() ? "class=active" : "")          >Review</a>
+        <a href="#"   @(Model.isStatusReviewed() ? "class=active" : "")     >Update IN DEWA</a>
+        <a href="#"   @(Model.isStatusCompleted() ? "class=active" : "")    >Completed</a>
+    </div>
+
+
+  @*<ol class="breadcrumb">
+        <li>
+            <a href="#">
+                <em class="fa fa-home"></em>
+            </a>
+        </li>
+        <li class="active"> <font @(Model.isStatusNew() ? "style=font-weight:bold" : "")>Review</font> > <font @(Model.isStatusReviewed() ? "style=font-weight:bold" : "")>Update IN DEWA</font> >  <font @(Model.isStatusCompleted() ? "style=font-weight:bold" : "")>Completed</font>   </li>
+    </ol>*@
+
+
+<div class="panel panel-default" ng-controller="submitcontroller">
+    <div class="panel-heading">Housing Fees Request Data</div>
+    <div  class="panel-body">
+
+
+
+        <form  method="post" id="formId" class="form-horizontal" action="">
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            @Html.AntiForgeryToken();
+            <div class="row">
+                <div class="col s12">
+                    <ul class="tabs tabs-fixed-width tab-demo z-depth-1">
+                        <li class="tab">
+                            <a class="" href="#tab1" translate="RequestDetails">Request Details</a>
+                        </li>
+                        <li class="tab" style="display:none">
+                            <a class="" id="addressIdTab" href="#tab2" translate="Address">Address</a>
+                        </li>
+                        @if (Model.RequestorType.ToString() != "Tenant")
+                        {
+                            <li class="tab">
+                                <a class="" href="#tab3" id="attachmentIdTab" translate="Attachments">Attachments</a>
+                            </li>
+                        }
+                        </ul>
+                </div>
+                <div class="col s12" style="padding: 15px 0 0 0;">
+                    <div id="tab1" class="col s12" style="display: block;">
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+                                @if (Model.isStatusRejected())
+                                {
+                                    <div class="form-group">
+                                        <label class="control-label col-sm-2" for="RejectionReason">Rejection Reason:</label>
+                                        <div class="col-sm-10">
+                                            <textarea id="RejectionReason" readonly name="RejectionReason" value="@Model.RejectionReason" class="form-control">@Model.RejectionReason</textarea>
+                                        </div>
+                                    </div>
+                                }
+
+                                <div class="form-group">
+                                    <label class="control-label col-sm-2" for="Id">Reference Num:</label>
+                                    <div class="col-sm-10">
+                                        <input type="text" readonly="readonly" id="Id" name="Id" value="@Model.Id" class="form-control">
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label class="control-label col-sm-2" for="RequestorType">Requestor Type:</label>
+                                    <div class="col-sm-10">
+                                        <input type="text" readonly="readonly" id="RequestorType" name="RequestorType" value="@Model.RequestorType" class="form-control">
+                                    </div>
+                                </div>
+
+                                <input type="hidden" value="@Model.Id" name="Id" />
+                                <input type="hidden" value="@Model.Status" name="Status" />
+                                <input type="hidden" value="@Model.Locked_By_User_Id" name="Locked_By_User_Id" />
+                                <input type="hidden" value="@Model.approvedReviewerUser" name="Approved_Review_By_User_Id" />
+
+                                <div class="form-group">
+                                    <label class="control-label col-sm-2" for="AccountNumber">Account Number:</label>
+                                    <div class="col-sm-10">
+                                        <div class="col-sm-8" style="padding-left:0px;">
+                                            <input type="text" readonly="readonly" id="AccountNumber" name="AccountNumber" value="@Model.AccountNumber" class="form-control">
+                                        </div>
+                                        <div class="col-sm-2">
+
+                                            <button type="button" style="margin-top:0px" ng-click="fillHousingFees()" class="btn  btn-primary">ViewDetails</button>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                                @if (Model.RequestorType.ToString() == "Owner")
+                                {
+
+                                    <div class="form-group">
+                                        <label class="control-label col-sm-2" for="NumberOfRooms">Number Of Bedrooms:</label>
+                                        <div class="col-sm-10">
+                                            <input type="text" readonly="readonly" id="NumberOfRooms" name="NumberOfRooms" value="@Model.NumberOfRooms" class="form-control">
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label class="control-label col-sm-2" for="PropertyType">Property Type:</label>
+                                        <div class="col-sm-10">
+                                            <input type="text" readonly="readonly" id="PropertyType" name="PropertyType" value="@Model.Property_Types.English_Name" class="form-control">
+                                        </div>
+                                    </div>
+                                    if (Model.Area != null)
+                                    {
+                                        <div class="form-group">
+                                            <label class="control-label col-sm-2" for="Area">Area:</label>
+                                            <div class="col-sm-10">
+                                                <input type="text" readonly="readonly" id="Area" name="Area" value="@Model.Area.English_Name" class="form-control">
+                                            </div>
+                                        </div>
+                                    }
+                                    @*<div class="form-group">
+                            <label class="control-label col-sm-2" for="Community_Places">Community Place:</label>
+                            <div class="col-sm-10">
+                                <input type="text" readonly="readonly" id="Community_Places" name="Community_Places" value="@Model.Community_Places.English_Name" class="form-control">
+                            </div>
+                        </div>*@
+
+                                }
+                                <div class="form-group">
+                                    <label class="control-label col-sm-2" for="EmailAddress">Email Address:</label>
+                                    <div class="col-sm-10">
+                                        <input type="text" readonly="readonly" id="EmailAddress" name="EmailAddress" value="@Model.EmailAddress" class="form-control">
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label class="control-label col-sm-2" for="PremiseNumber">Premise Number:</label>
+                                    <div class="col-sm-10">
+                                        <input type="text" readonly="readonly" id="PremiseNumber" name="PremiseNumber" value="@Model.PremiseNumber" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="control-label col-sm-2" for="OwnerName">Owner Name:</label>
+                                    <div class="col-sm-10">
+                                        <input type="text" readonly="readonly" id="OwnerName" name="OwnerName" value="@Model.OwnerName" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="control-label col-sm-2" for="ContractAddress">Address:</label>
+                                    <div class="col-sm-10">
+                                        <input type="text" readonly="readonly" id="ContractAddress" name="ContractAddress" value="@Model.ContractAddress" class="form-control">
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label class="control-label col-sm-2" for="ContractEndDate">Contract EndDate:</label>
+                                    <div class="col-sm-10">
+                                        <input type="text" readonly="readonly" id="ContractEndDate" name="ContractEndDate" value="@Model.ContractEndDate" class="form-control">
+                                    </div>
+                                </div>
+                                @if (Model.RequestorType.ToString() == "Tenant")
+                                {
+
+                                    <div class="form-group">
+                                        <label class="control-label col-sm-2" for="EjariNumber">Ejari Number:</label>
+                                        <div class="col-sm-10">
+                                            <div class="col-sm-8" style="padding-left:0px;">
+                                                <input type="text" readonly="readonly" id="EjariNumber" name="EjariNumber" value="@Model.EjariNumber" class="form-control">
+                                            </div>
+                                            <div class="col-sm-2">
+
+                                                <button type="button" style="margin-top:0px" ng-click="fillEjariDetails()" class="btn  btn-primary">ViewDetails</button>
+
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                }
+
+                                <div class="form-group">
+                                    <label class="control-label col-sm-2" for="MobileNumber">Mobile Number:</label>
+                                    <div class="col-sm-10">
+                                        <input type="text" readonly="readonly" id="MobileNumber" name="MobileNumber" value="@Model.MobileNumber" class="form-control">
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label class="control-label col-sm-2" for="Remarks">Customer Remarks:</label>
+                                    <div class="col-sm-10">
+                                        <textarea disabled="disabled" rows="4" id="Remarks" name="Remarks" class="form-control">@Model.Remarks</textarea>
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label class="control-label col-sm-2" for="Employee_Comment">Employee Remarks:<span style="color:red;">*</span></label>
+                                    <div class="col-sm-10">
+                                        <textarea id="Employee_Comment" name="Employee_Comment" rows="4" cols="50" class="form-control">@Model.Employee_Comment</textarea>
+                                    </div>
+                                </div>
+
+
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <div id="tab2" class="col s12" style="display: none;">
+                        <div class="row" style="display: none;">
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+                                <div class="form-group">
+                                    <label class="control-label col-sm-2" for="MakaniNumber">Makani Number:</label>
+                                    <div class="col-sm-10">
+                                        <input type="text" readonly="readonly" id="MakaniNumber" name="MakaniNumber" value="@Model.MakaniNumber" class="form-control">
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label class="control-label col-sm-2" for="PlotNumber">Plot Number:</label>
+                                    <div class="col-sm-10">
+                                        <input type="text" readonly="readonly" id="PlotNumber" name="PlotNumber" value="@Model.PlotNumber" class="form-control">
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label class="control-label col-sm-2" for="StreetNumber">Street Number:</label>
+                                    <div class="col-sm-10">
+                                        <input type="text" readonly="readonly" name="StreetNumber" value="@Model.StreetNumber" class="form-control">
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label class="control-label col-sm-2" for="StreetName">Street Name:</label>
+                                    <div class="col-sm-10">
+                                        <input type="text" readonly="readonly" id="StreetName" name="StreetName" value="@Model.StreetName" class="form-control">
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label class="control-label col-sm-2" for="BuildingNumber">Building Number:</label>
+                                    <div class="col-sm-10">
+                                        <input type="text" readonly="readonly" id="BuildingNumber" name="BuildingNumber" value="@Model.BuildingNumber" class="form-control">
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label class="control-label col-sm-2" for="OfficeNumber">Office Number:</label>
+                                    <div class="col-sm-10">
+                                        <input type="text" readonly="readonly" id="OfficeNumber" name="OfficeNumber" value="@Model.OfficeNumber" class="form-control">
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label class="control-label col-sm-2" for="PointOfSample">Point Of Sample:</label>
+                                    <div class="col-sm-10">
+                                        <input type="text" readonly="readonly" id="PointOfSample" name="PointOfSample" value="@Model.PointOfSample" class="form-control">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    
+                        <div id="tab3" class="col s12" style="display: none;">
+                            <div class="row">
+                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+                                    @*<div class="form-group" style="display:none">
+                                        <label class="control-label col-sm-2" for="">Copy Of Dewa Bill:</label>
+                                        <div class="col-sm-10 btn_link">
+                                            <a target="_blank" href="~/Home/getModificationHousingFeesImage?pageId=@Model.Id&isCopyOfDewaBill=true">
+                                                Show Copy Of Dewa Bill
+                                            </a>
+                                        </div>
+                                    </div>*@
+
+                                    @if (Model.RequestorType == "DifcTenant")
+                                    {
+                                        <div class="form-group" >
+                                            <label class="control-label col-sm-2" for="">Copy Of Ejari Certificate:</label>
+                                            <div class="col-sm-10 btn_link">
+                                                <a target="_blank" href="~/Home/getModificationHousingFeesImage?pageId=@Model.Id&isCopyOfEjariCertificate=true">
+                                                    Show Ejari Certificate
+                                                </a>
+                                            </div>
+                                        </div>
+                                    }
+
+
+                                    @if (Model.RequestorType == "Owner")
+                                    {
+
+                                        if (Model.PropertyId == 5)
+                                        {
+
+                                            <div class="form-group">
+                                                <label class="control-label col-sm-2" for="">Letter From Owner Mentioning Meters:</label>
+                                                <div class="col-sm-10 btn_link">
+                                                    <a target="_blank" href="~/Home/getModificationHousingFeesImage?pageId=@Model.Id&isLetterFromOwnerMentioningMeters=true">
+                                                        Show Letter From Owner
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        }
+
+                                        <div class="form-group">
+                                            <label class="control-label col-sm-2" for="">Title Deed:</label>
+                                            <div class="col-sm-10 btn_link">
+                                                <a target="_blank" href="~/Home/getModificationHousingFeesImage?pageId=@Model.Id&isTitleDeed=true">
+                                                    Show Title Deed
+                                                </a>
+                                            </div>
+                                        </div>
+
+
+                                        <div class="form-group">
+                                            <label class="control-label col-sm-2" for="">Layout:</label>
+                                            <div class="col-sm-10 btn_link">
+                                                <a target="_blank" href="~/Home/getModificationHousingFeesImage?pageId=@Model.Id&isLayoutAttachmentBinary=true">
+                                                    Show Layout Attachment
+                                                </a>
+                                            </div>
+                                        </div>
+                                    }
+
+                                </div>
+                            </div>
+
+                        </div>
+                    
+                </div>
+            </div>
+            <!-- Start First Tab -->
+            <!-- End First Tab -->
+            <!-- Start Second Tab -->
+            <!-- End Second Tab -->
+            <!-- start third Tab -->
+            <!-- End third Tab -->
+
+
+            @if (Model.isStatusNew() && (Common.User.Has_Admin_Role || Common.User.Has_Review_Role))
+            {
+                <div class="form-group">
+                    <div class="col-sm-offset-2 col-sm-10">
+                        @if (Model.Locked_By_User_Id == Common.User.id)
+                        {
+                            <button type="button" onclick="approveReviewStep()" class="btn btn-primary">Approve</button>
+                            <button type="button" data-toggle="modal" data-target="#rejectionModal" class="btn btn-danger">Reject</button>
+                        }
+
+                        @if (Model.Locked_By_User_Id == null)
+                        {
+                            <button type="button" onclick="lockRecord()" class="btn btn-primary">Lock Record</button>
+                        }
+
+                        @if (Model.Locked_By_User_Id != null && (Model.Locked_By_User_Id == Common.User.id || Common.User.Has_Admin_Role))
+                        {
+
+                            <button type="button" onclick="unlockRecord()" class="btn btn-primary">UnLock Record</button>
+                        }
+
+                    </div>
+                </div>
+            }
+
+            @if (Model.isStatusReviewed() && (Common.User.Has_Admin_Role || Common.User.Has_Manul_Update_Role_In_Dewa))
+            {
+                <div class="form-group">
+                    <div class="col-sm-offset-2 col-sm-10">
+                        @if (Model.Locked_By_User_Id == Common.User.id)
+                        {
+                            <button type="button" onclick="approveManualUpdate()" class="btn btn-primary">Approve</button>
+                            <button type="button" data-toggle="modal" data-target="#rejectionModal" class="btn btn-danger">Reject</button>
+                        }
+
+                        @if (Model.Locked_By_User_Id == null)
+                        {
+                            <button type="button" onclick="lockRecord()" class="btn btn-primary">Lock Record</button>
+                        }
+
+                        @if (Model.Locked_By_User_Id != null && (Model.Locked_By_User_Id == Common.User.id || Common.User.Has_Admin_Role))
+                        {
+                            <button type="button" onclick="unlockRecord()" class="btn btn-primary">UnLock Record</button>
+                        }
+                    </div>
+                </div>
+            }
+
+
+            <!-- Modal -->
+            <div class="modal fade" id="rejectionModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel"><b>Please Enter Rejection Reason :<span style="color:red;">*</span></b></h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <textarea id="RejectionReason" name="RejectionReason" value="@Model.RejectionReason" class="form-control">@Model.RejectionReason</textarea>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="button" onclick="rejectRecord()" class="btn btn-danger">Reject</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Modal -->
+        </form>
+
+    </div>
+</div>
+
+<script src="~/Content/dashboard/js/jquery-1.11.1.min.js"></script>
+<script src="~/Content/js/materialize.min.js"></script>

@@ -1,0 +1,57 @@
+﻿
+@{
+    ViewBag.Title = "housing Fees Data";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    table > thead {
+        width: 100%;
+    }
+</style>
+
+
+
+
+
+
+
+<div class="mainLayout" ng-controller="Viewcontroller">
+
+    <div class="panel">
+        <div class="panel_head translate" translate="RequestDetails">DEWA Account Number Details</div>
+        <div class="panel_content">
+            <div class="row ">
+                <div class="row form_panel" style="margin:10px;">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+
+
+                        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4" style="text-align:right">
+                            <label for="PremiseNumber" translate="PremiseNumber">Premise Number</label>
+                            <i class="fa fa-star mad_field" aria-hidden="true"></i>
+
+                        </div>
+                        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+                            <div class="form-group">
+                                <input placeholder="XXXXXXXXX" maxlength="9" readonly="readonly" style="border: 1px solid rgb(206, 212, 218);" type="text" class="form-control txtbox-style " id="PremiseNumber"  name="PremiseNumber">
+
+                            </div>
+                        </div>
+
+                        <span><b>Passed Parameter after click:</b></span>{{}}
+
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal-footer">
+    <button class="btn btn-warning" type="button"
+            ng-click="close()">
+        Cancel
+    </button>
+</div>

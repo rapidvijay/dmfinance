@@ -1,0 +1,118 @@
+﻿@model ModificationHousingFeesAdmin.Models.User
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2 main">
+
+ 
+
+    <div class="breadcrumb flat">
+        <a href="#" style="cursor: default">
+            <em class="fa fa-home"></em>
+        </a>
+
+        <a href="#" style="cursor: default" class="active">Edit User</a>
+    </div>
+
+
+
+    <div class="panel panel-default">
+        <div class="panel-heading">Edit Users</div>
+        <div class="panel-body">
+
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    @Html.HiddenFor(model => model.id)
+
+                    <div class="form-group">
+
+                        <label class="control-label col-sm-3" for="">User Name</label>
+                        <div class="col-md-9">
+                            @Html.EditorFor(model => model.USER_NAME, new { htmlAttributes = new { @class = "form-control", @required = "true", @maxlength = "12" } })
+                            @Html.ValidationMessageFor(model => model.USER_NAME, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                 
+
+                    <div class="form-group">
+                        <label class="control-label col-sm-3" for="">Name Arabic</label>
+
+                        <div class="col-md-9">
+                            @Html.EditorFor(model => model.NAME_ARABIC, new { htmlAttributes = new { @class = "form-control", @required = "true" } })
+                            @Html.ValidationMessageFor(model => model.NAME_ARABIC, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label col-sm-3" for="">Name English</label>
+                        <div class="col-md-9">
+                            @Html.EditorFor(model => model.NAME_ENGLISH, new { htmlAttributes = new { @class = "form-control", @required = "true" } })
+                            @Html.ValidationMessageFor(model => model.NAME_ENGLISH, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label col-sm-3" for="">Email</label>
+                        <div class="col-md-9">
+                            @Html.EditorFor(model => model.EMAIL, new { htmlAttributes = new { @class = "form-control", @required = "true" } })
+                            @Html.ValidationMessageFor(model => model.EMAIL, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label col-sm-3" for="">Admin Role</label>
+                        <div class="col-md-9 btn_chk">
+                            @Html.CheckBoxFor(model => model.Has_Admin_Role, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.Has_Admin_Role, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label col-sm-3" for="">Review Role</label>
+                        <div class="col-md-9 btn_chk">
+                            @Html.CheckBoxFor(model => model.Has_Review_Role, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.Has_Review_Role, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label col-sm-3" for="">Manul Update Role</label>
+                        <div class="col-md-9 btn_chk">
+                            @Html.CheckBoxFor(model => model.Has_Manul_Update_Role_In_Dewa, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.Has_Manul_Update_Role_In_Dewa, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Save" class="btn btn-primary" />
+                            @Html.ActionLink("Show Users", "Index", null, new { @class = "btn btn-info" })
+                        </div>
+                    </div>
+                </div>
+            }
+
+            <div>
+
+            </div>
+
+
+
+
+            <div class="row">
+
+
+            </div><!--/.row-->
+        </div>	<!--/.main-->
+
+    </div>
+</div>

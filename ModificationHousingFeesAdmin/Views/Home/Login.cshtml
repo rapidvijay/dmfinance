@@ -1,0 +1,64 @@
+﻿@model ModificationHousingFeesAdmin.ViewModel.UserDetails
+@{
+    ViewBag.Title = "login";
+
+}
+
+@{
+
+    Layout = null;
+}
+
+
+
+<html>
+<head>
+
+
+    <link href="~/Content/bootstrap/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <link href="~/Content/css/loginForm.css" rel="stylesheet" />
+
+    <!------ Include the above in your HEAD tag ---------->
+</head>
+<body id="LoginForm">
+
+    @using (Html.BeginForm("Login", "Home", FormMethod.Post, new { id = "loginSubmit", enctype = "multipart/form-data" }))
+    {
+        @Html.AntiForgeryToken()
+        <div class="container">
+            <h1 class="form-heading"></h1>
+            <div class="login-form">
+                <div class="main-div">
+                    <div class="panel">
+
+                        <img src="~/Content/image/dm_logo.jpg" alt="DM Logo" style="margin-bottom:6px" />
+
+                        <p>Please enter your Active Direcotry User Name and password</p>
+                        <p style="color:red" id="validationSummary">@Html.ValidationSummary()</p>
+                    </div>
+                    <form id="Login">
+                        <div class="form-group">
+
+                            <input type="text" class="form-control" name="USER_NAME" value="@Model.USER_NAME" id="USER_NAME" placeholder="User Name" />
+                        </div>
+                        <div class="form-group">
+                            <input type="password" class="form-control" name="PASSWORD" value="@Model.password" id="inputPassword" placeholder="Password">
+                        </div>
+                        <div class="forgot" style="display:none">
+                            <a href="reset.html">Forgot password?</a>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Login</button>
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    }
+
+    <script src="~/Content/bootstrap/jquery/jquery.min.js"></script>
+    <script src="~/Content/bootstrap/js/bootstrap.min.js"></script>
+
+</body>
+</html>
+
+

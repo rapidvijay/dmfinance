@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://service.soap.ws.email.dm.ae/" targetNamespace="http://service.soap.ws.email.dm.ae/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="MissingEmailDataException" nillable="true" type="tns:missingEmailDataBean" />
+  <xs:element name="NotValidEmailException" type="tns:NotValidEmailException" />
+  <xs:element name="commonDTO" type="tns:commonDTO" />
+  <xs:element name="sendEmail" type="tns:sendEmail" />
+  <xs:element name="sendEmailResponse" type="tns:sendEmailResponse" />
+  <xs:element name="sendEmailToMultipleRecipients" type="tns:sendEmailToMultipleRecipients" />
+  <xs:element name="sendEmailToMultipleRecipientsResponse" type="tns:sendEmailToMultipleRecipientsResponse" />
+  <xs:complexType name="sendEmailToMultipleRecipients">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="EmailRequestMultipleRecipients" type="tns:EmailRequestMultipleRecipients" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="EmailRequestMultipleRecipients">
+    <xs:sequence>
+      <xs:element name="fromEmail" type="xs:string" />
+      <xs:element maxOccurs="unbounded" name="recipientsEmails" type="xs:string" />
+      <xs:element name="message" type="xs:string" />
+      <xs:element name="subject" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="emailAttachments" nillable="true" type="tns:emailAttachment" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ccEmails" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="bccEmails" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="emailAttachment">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="contentType" type="xs:string" />
+      <xs:element minOccurs="0" name="emailAttachment" type="xs:base64Binary" />
+      <xs:element minOccurs="0" name="fileName" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="sendEmailToMultipleRecipientsResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:commonDTO" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="commonDTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="errorMessage" type="xs:string" />
+      <xs:element minOccurs="0" name="exceptionCause" type="xs:string" />
+      <xs:element minOccurs="0" name="status" type="xs:string" />
+      <xs:element minOccurs="0" name="statusMessage" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="missingEmailDataBean">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="errorMessage" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="NotValidEmailException">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="message" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="sendEmail">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="emailRequest" type="tns:EmailRequestType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="EmailRequestType">
+    <xs:sequence>
+      <xs:element name="fromEmail" type="xs:string" />
+      <xs:element name="toEmail" type="xs:string" />
+      <xs:element name="message" type="xs:string" />
+      <xs:element name="subject" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="emailAttachments" nillable="true" type="tns:emailAttachment" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="sendEmailResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:commonDTO" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

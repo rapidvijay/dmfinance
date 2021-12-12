@@ -1,0 +1,121 @@
+﻿@*@model IEnumerable<ModificationHousingFeesAdmin.Models.Property_Types>*@
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model PagedList.IPagedList<ModificationHousingFeesAdmin.Models.Property_Types>
+@using GridMvc.Html
+
+<div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2 main">
+
+
+
+    <div class="breadcrumb flat">
+        <a href="#" style="cursor: default">
+            <em class="fa fa-home"></em>
+        </a>
+
+        <a href="#" style="cursor: default" class="active">Properties</a>
+    </div>
+
+    <div class="panel panel-default">
+        <div class="panel-heading">Properties</div>
+        <div class="panel-body">
+
+            <p>
+                @if (Common.User.Has_Admin_Role)
+                {
+                    @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-primary" })
+                }
+            </p>
+
+
+            @*<table class="table table-striped">
+            <tr>
+                <th>
+                    Name Arabic
+                </th>
+
+                <th>
+                    Name English
+                </th>
+
+                <th>
+
+
+                </th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Arabic_Name)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.English_Name)
+                    </td>
+
+
+                    @if (Common.User.Has_Admin_Role)
+                    {
+                        <td>
+                            @Html.ActionLink(" ", "Edit", new { id = item.Id }, new { @class = "fa fa-pencil btn-edit" }) |
+                            @Html.ActionLink(" ", "Details", new { id = item.Id }, new { @class = "fa fa-eye btn-details" }) |
+                            @Html.ActionLink(" ", "Delete", new { id = item.Id }, new { @class = "fa fa-trash-o btn-delete" })
+                        </td>
+                    }
+                </tr>
+            }
+
+        </table>*@
+
+
+            @if (Model != null)
+            {
+                @Html.Grid(Model).Named("HousingFeesGrid").Columns(columns =>
+           {
+               columns.Add(c => c.Arabic_Name).Titled("Arabic Name").Filterable(true);
+               columns.Add(c => c.English_Name).Titled("English Name").Filterable(true);
+
+              if (Common.User.Has_Admin_Role)
+               {
+                   columns.Add()
+                    .Encoded(false)
+                    .Sanitized(false)
+                    .SetWidth(30)
+                    .RenderValueAs(o =>
+                           @Html.ActionLink(" ", "Edit", new { id = o.Id }, new { @class = "fa fa-pencil btn-edit" })
+                    );
+
+                   columns.Add()
+                   .Encoded(false)
+                   .Sanitized(false)
+                   .SetWidth(30)
+                   .RenderValueAs(o =>
+                         @Html.ActionLink(" ", "Details", new { id = o.Id }, new { @class = "fa fa-eye btn-details" })
+                   );
+
+                   columns.Add()
+                   .Encoded(false)
+                   .Sanitized(false)
+                   .SetWidth(30)
+                   .RenderValueAs(o =>
+                         @Html.ActionLink(" ", "Delete", new { id = o.Id }, new { @class = "fa fa-trash-o btn-delete" })
+                   );
+               }
+
+           }).WithPaging(4).Filterable(true).Sortable(true)
+            }
+
+
+
+        </div><!--/.row-->
+    </div>	<!--/.main-->
+
+
+
+</div>

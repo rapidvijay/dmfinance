@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModificationHousingFeesModelStoreContainer" CdmEntityContainer="ModificationHousingFeesEntities">
+    <EntitySetMapping Name="Area_CommunitiesPlaces">
+      <EntityTypeMapping TypeName="ModificationHousingFeesModel.Area_CommunitiesPlaces">
+        <MappingFragment StoreEntitySet="Area_CommunitiesPlaces">
+          <ScalarProperty Name="Update_Date" ColumnName="Update_Date" />
+          <ScalarProperty Name="Update_By" ColumnName="Update_By" />
+          <ScalarProperty Name="Creation_Date" ColumnName="Creation_Date" />
+          <ScalarProperty Name="Created_By" ColumnName="Created_By" />
+          <ScalarProperty Name="Community_Id" ColumnName="Community_Id" />
+          <ScalarProperty Name="Area_Id" ColumnName="Area_Id" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Areas">
+      <EntityTypeMapping TypeName="ModificationHousingFeesModel.Area">
+        <MappingFragment StoreEntitySet="Areas">
+          <ScalarProperty Name="Updated_By" ColumnName="Updated_By" />
+          <ScalarProperty Name="Update_Date" ColumnName="Update_Date" />
+          <ScalarProperty Name="Creation_Date" ColumnName="Creation_Date" />
+          <ScalarProperty Name="Created_By" ColumnName="Created_By" />
+          <ScalarProperty Name="English_Name" ColumnName="English_Name" />
+          <ScalarProperty Name="Arabic_Name" ColumnName="Arabic_Name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Community_Places">
+      <EntityTypeMapping TypeName="ModificationHousingFeesModel.Community_Places">
+        <MappingFragment StoreEntitySet="Community_Places">
+          <ScalarProperty Name="Updated_By" ColumnName="Updated_By" />
+          <ScalarProperty Name="Update_Date" ColumnName="Update_Date" />
+          <ScalarProperty Name="Creation_Date" ColumnName="Creation_Date" />
+          <ScalarProperty Name="Created_By" ColumnName="Created_By" />
+          <ScalarProperty Name="English_Name" ColumnName="English_Name" />
+          <ScalarProperty Name="Arabic_Name" ColumnName="Arabic_Name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="property_Areas">
+      <EntityTypeMapping TypeName="ModificationHousingFeesModel.property_Areas">
+        <MappingFragment StoreEntitySet="property_Areas">
+          <ScalarProperty Name="Update_Date" ColumnName="Update_Date" />
+          <ScalarProperty Name="Update_By" ColumnName="Update_By" />
+          <ScalarProperty Name="Creation_Date" ColumnName="Creation_Date" />
+          <ScalarProperty Name="Created_By" ColumnName="Created_By" />
+          <ScalarProperty Name="Area_Id" ColumnName="Area_Id" />
+          <ScalarProperty Name="Property_Id" ColumnName="Property_Id" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Property_Types">
+      <EntityTypeMapping TypeName="ModificationHousingFeesModel.Property_Types">
+        <MappingFragment StoreEntitySet="Property_Types">
+          <ScalarProperty Name="Update_Date" ColumnName="Update_Date" />
+          <ScalarProperty Name="Creation_Date" ColumnName="Creation_Date" />
+          <ScalarProperty Name="Updated_By" ColumnName="Updated_By" />
+          <ScalarProperty Name="Created_By" ColumnName="Created_By" />
+          <ScalarProperty Name="English_Name" ColumnName="English_Name" />
+          <ScalarProperty Name="Arabic_Name" ColumnName="Arabic_Name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Request_Modify_DM_Housing_Fees">
+      <EntityTypeMapping TypeName="ModificationHousingFeesModel.Request_Modify_DM_Housing_Fees">
+        <MappingFragment StoreEntitySet="Request_Modify_DM_Housing_Fees">
+          <ScalarProperty Name="HousingFees" ColumnName="HousingFees" />
+          <ScalarProperty Name="EjariRegisteredBy" ColumnName="EjariRegisteredBy" />
+          <ScalarProperty Name="ContractEndDate" ColumnName="ContractEndDate" />
+          <ScalarProperty Name="ContractAddress" ColumnName="ContractAddress" />
+          <ScalarProperty Name="EjariNumber" ColumnName="EjariNumber" />
+          <ScalarProperty Name="OwnerName" ColumnName="OwnerName" />
+          <ScalarProperty Name="LayoutAttachment_FileName" ColumnName="LayoutAttachment_FileName" />
+          <ScalarProperty Name="TitleDeed_FileName" ColumnName="TitleDeed_FileName" />
+          <ScalarProperty Name="CopyOfEjariCertificate_FileName" ColumnName="CopyOfEjariCertificate_FileName" />
+          <ScalarProperty Name="LetterFromOwnerMentioningMeters_FileName" ColumnName="LetterFromOwnerMentioningMeters_FileName" />
+          <ScalarProperty Name="CopyOfDewaBill_FileName" ColumnName="CopyOfDewaBill_FileName" />
+          <ScalarProperty Name="lang" ColumnName="lang" />
+          <ScalarProperty Name="communityPlaceId" ColumnName="communityPlaceId" />
+          <ScalarProperty Name="AreaId" ColumnName="AreaId" />
+          <ScalarProperty Name="PropertyId" ColumnName="PropertyId" />
+          <ScalarProperty Name="Approved_Manual_Update_By_User_Id" ColumnName="Approved_Manual_Update_By_User_Id" />
+          <ScalarProperty Name="Locked_By_User_Id" ColumnName="Locked_By_User_Id" />
+          <ScalarProperty Name="Rejected_By_User_Id" ColumnName="Rejected_By_User_Id" />
+          <ScalarProperty Name="Approved_Review_By_User_Id" ColumnName="Approved_Review_By_User_Id" />
+          <ScalarProperty Name="Employee_Comment" ColumnName="Employee_Comment" />
+          <ScalarProperty Name="RejectionReason" ColumnName="RejectionReason" />
+          <ScalarProperty Name="MimeTypeLayout" ColumnName="MimeTypeLayout" />
+          <ScalarProperty Name="LayoutAttachmentBinary" ColumnName="LayoutAttachmentBinary" />
+          <ScalarProperty Name="MimeTypeTitleDeed" ColumnName="MimeTypeTitleDeed" />
+          <ScalarProperty Name="TitleDeed" ColumnName="TitleDeed" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Updated_Date" ColumnName="Updated_Date" />
+          <ScalarProperty Name="UpdatedBy" ColumnName="UpdatedBy" />
+          <ScalarProperty Name="Creation_Date" ColumnName="Creation_Date" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="MimeTypeCopyOfEjariCertificate" ColumnName="MimeTypeCopyOfEjariCertificate" />
+          <ScalarProperty Name="CopyOfEjariCertificate" ColumnName="CopyOfEjariCertificate" />
+          <ScalarProperty Name="MimeTypeLetterFromOwnerMentioningMeters" ColumnName="MimeTypeLetterFromOwnerMentioningMeters" />
+          <ScalarProperty Name="LetterFromOwnerMentioningMeters" ColumnName="LetterFromOwnerMentioningMeters" />
+          <ScalarProperty Name="MimeTypeCopyOfDewaBill" ColumnName="MimeTypeCopyOfDewaBill" />
+          <ScalarProperty Name="CopyOfDewaBill" ColumnName="CopyOfDewaBill" />
+          <ScalarProperty Name="PointOfSample" ColumnName="PointOfSample" />
+          <ScalarProperty Name="OfficeNumber" ColumnName="OfficeNumber" />
+          <ScalarProperty Name="BuildingNumber" ColumnName="BuildingNumber" />
+          <ScalarProperty Name="StreetName" ColumnName="StreetName" />
+          <ScalarProperty Name="StreetNumber" ColumnName="StreetNumber" />
+          <ScalarProperty Name="PlotNumber" ColumnName="PlotNumber" />
+          <ScalarProperty Name="Ycoordinator" ColumnName="Ycoordinator" />
+          <ScalarProperty Name="Xcoordinator" ColumnName="Xcoordinator" />
+          <ScalarProperty Name="MakaniNumber" ColumnName="MakaniNumber" />
+          <ScalarProperty Name="Remarks" ColumnName="Remarks" />
+          <ScalarProperty Name="MobileNumber" ColumnName="MobileNumber" />
+          <ScalarProperty Name="PremiseNumber" ColumnName="PremiseNumber" />
+          <ScalarProperty Name="PropertyType" ColumnName="PropertyType" />
+          <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+          <ScalarProperty Name="NumberOfRooms" ColumnName="NumberOfRooms" />
+          <ScalarProperty Name="AccountNumber" ColumnName="AccountNumber" />
+          <ScalarProperty Name="RequestorType" ColumnName="RequestorType" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="ModificationHousingFeesModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="Last_Login" ColumnName="Last_Login" />
+          <ScalarProperty Name="Has_Admin_Role" ColumnName="Has_Admin_Role" />
+          <ScalarProperty Name="Update_Date" ColumnName="Update_Date" />
+          <ScalarProperty Name="Updated_By" ColumnName="Updated_By" />
+          <ScalarProperty Name="Creation_Date" ColumnName="Creation_Date" />
+          <ScalarProperty Name="Created_By" ColumnName="Created_By" />
+          <ScalarProperty Name="Has_Manul_Update_Role_In_Dewa" ColumnName="Has_Manul_Update_Role_In_Dewa" />
+          <ScalarProperty Name="Has_Review_Role" ColumnName="Has_Review_Role" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="NAME_ENGLISH" ColumnName="NAME_ENGLISH" />
+          <ScalarProperty Name="NAME_ARABIC" ColumnName="NAME_ARABIC" />
+          <ScalarProperty Name="USER_NAME" ColumnName="USER_NAME" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HousingFeesExceptionLogs">
+      <EntityTypeMapping TypeName="ModificationHousingFeesModel.HousingFeesExceptionLog">
+        <MappingFragment StoreEntitySet="HousingFeesExceptionLog">
+          <ScalarProperty Name="Logdate" ColumnName="Logdate" />
+          <ScalarProperty Name="ExceptionURL" ColumnName="ExceptionURL" />
+          <ScalarProperty Name="ExceptionSource" ColumnName="ExceptionSource" />
+          <ScalarProperty Name="ExceptionType" ColumnName="ExceptionType" />
+          <ScalarProperty Name="ExceptionMsg" ColumnName="ExceptionMsg" />
+          <ScalarProperty Name="Logid" ColumnName="Logid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7efd771dd4ed47d2810274032842eda7" Name="Diagram1" ZoomLevel="44">
+        <EntityTypeShape EntityType="ModificationHousingFeesModel.Area_CommunitiesPlaces" Width="1.5" PointX="3" PointY="14.625" />
+        <EntityTypeShape EntityType="ModificationHousingFeesModel.Area" Width="1.5" PointX="0.75" PointY="10.75" />
+        <EntityTypeShape EntityType="ModificationHousingFeesModel.Community_Places" Width="1.5" PointX="0.75" PointY="14.375" />
+        <EntityTypeShape EntityType="ModificationHousingFeesModel.property_Areas" Width="1.5" PointX="6" PointY="6.125" />
+        <EntityTypeShape EntityType="ModificationHousingFeesModel.Property_Types" Width="1.5" PointX="0.75" PointY="1.25" />
+        <EntityTypeShape EntityType="ModificationHousingFeesModel.Request_Modify_DM_Housing_Fees" Width="1.5" PointX="3" PointY="1.375" />
+        <EntityTypeShape EntityType="ModificationHousingFeesModel.User" Width="1.5" PointX="0.625" PointY="4.375" />
+        <AssociationConnector Association="ModificationHousingFeesModel.FK_Area_Communities_Community_Place_Id" />
+        <AssociationConnector Association="ModificationHousingFeesModel.FK_Area_CommunitiesPlaces_Areas" />
+        <AssociationConnector Association="ModificationHousingFeesModel.FK_property_Areas_Area_Id" />
+        <AssociationConnector Association="ModificationHousingFeesModel.FK_Request_Modify_DM_Housing_Fees_Areas" />
+        <AssociationConnector Association="ModificationHousingFeesModel.FK_Request_Modify_DM_Housing_Fees_Community_Places" />
+        <AssociationConnector Association="ModificationHousingFeesModel.FK_property_Areas_Property_Id" />
+        <AssociationConnector Association="ModificationHousingFeesModel.FK_Request_Modify_DM_Housing_Fees_Property_Type_Id" />
+        <AssociationConnector Association="ModificationHousingFeesModel.FK_Request_Modify_DM_Approve_Manual_Update" />
+        <AssociationConnector Association="ModificationHousingFeesModel.FK_Request_Modify_DM_Approved_Review_BY_User_Id" />
+        <AssociationConnector Association="ModificationHousingFeesModel.FK_Request_Modify_DM_Locked_BY_User_Id" />
+        <AssociationConnector Association="ModificationHousingFeesModel.FK_Request_Modify_DM_Rejected_By_User_Id" />
+        <EntityTypeShape EntityType="ModificationHousingFeesModel.HousingFeesExceptionLog" Width="1.5" PointX="5.375" PointY="0.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

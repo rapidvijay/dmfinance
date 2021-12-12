@@ -1,0 +1,99 @@
+﻿
+@{
+    ViewBag.Title = "housing Fees Data";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@model PagedList.IPagedList<ModificationHousingFeesAdmin.ViewModel.RequestModifyHousingFeesViewModel>
+@using GridMvc.Html
+
+
+
+
+<div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2 main">
+
+    @*<ol class="breadcrumb">
+            <li>
+                <a href="#">
+                    <em class="fa fa-home"></em>
+                </a>
+            </li>
+            <li class="active">Housing Fees Data</li>
+        </ol>*@
+
+
+    <div class="breadcrumb flat">
+        <a href="#" style="cursor: default">
+            <em class="fa fa-home"></em>
+        </a>
+
+        <a href="#" style="cursor: default" class="active">Housing Fees Data</a>
+    </div>
+
+    <div class="panel panel-default">
+        <div class="panel-heading">Housing Fees Data</div>
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-md-12" style="overflow:auto;">
+                    @if (Model != null)
+                    {
+                        @Html.Grid(Model).Named("HousingFeesGrid").Columns(columns =>
+                   {
+                       columns.Add(c => c.Id).Titled("Ref No").Filterable(true);
+                       columns.Add(c => c.RequestorType).Titled("Requestor").Filterable(true);
+                       columns.Add(c => c.AccountNumber).Titled("Account No").Filterable(true);
+                       //columns.Add(c => c.EmailAddress).Titled("Email Address").Filterable(true);
+
+                       columns.Add(c => c.PremiseNumber).Titled("Premise No").Filterable(true);
+
+                       columns.Add(c => c.MobileNumber).Titled("Mobile").Filterable(true);
+                       columns.Add(c => c.Status).Titled("Status").Filterable(true);//.Css(colum. == "NEW" ? "style=color:orange" : "");
+
+                       columns.Add(c => c.TransCount).Titled("Total Trans").Filterable(true);
+                       columns.Add(c => c.Creation_Date).Format("{0:dd/MM/yyyy}").Titled("Submission Date").Filterable(true);
+
+                       columns.Add(c => c.lockedByUser).Titled("Locked By").Filterable(true);
+                       
+
+                       columns.Add()
+                       .Encoded(false)
+                       .Sanitized(false)
+                       .SetWidth(30)
+                       .RenderValueAs(o => Html.ActionLink(" ", "getHousingFeesRequestData", new { pageId = o.Id }, new { @class = "fa fa-eye btn-details" }));
+                   }).WithPaging(10).Filterable(true).Sortable(true)
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script>
+       
+    @*function showAndHideColumns() {
+        try {
+            var housingFeesGrid = document.getElementById("HousingFeesGrid");
+            var reject =  '@ViewBag.reject';
+            if (reject == true) {
+                alert("true " + reject);
+                housingFeesGrid.showColumn("rejectedByUser");
+            } else {
+                alert("false " + reject);
+                housingFeesGrid.hideColumn("rejectedByUser");
+
+            }
+        } catch (error) {
+            alert(error.message);
+        }
+
+    }*@
+       
+    </script>
+
+    <script>
+
+        //showAndHideColumns();
+    </script>
+
+</div>	<!--/.main-->

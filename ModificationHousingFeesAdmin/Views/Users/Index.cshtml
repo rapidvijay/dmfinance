@@ -1,0 +1,87 @@
+﻿@model IEnumerable<ModificationHousingFeesAdmin.Models.User>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2 main">
+
+
+
+    <div class="breadcrumb flat">
+        <a href="#" style="cursor: default">
+            <em class="fa fa-home"></em>
+        </a>
+
+        <a href="#" style="cursor: default" class="active">Users</a>
+    </div>
+
+    <div class="panel panel-default">
+        <div class="panel-heading">Users</div>
+        <div class="panel-body">
+
+            <p>
+                @if (Common.User.Has_Admin_Role)
+                {
+                    @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-primary" })
+                }
+            </p>
+            <table class="table table-striped">
+                <tr>
+                    <th>
+                        User Name
+                    </th>
+
+                    <th>
+                        Name English
+                    </th>
+                    <th>
+                        Email
+                    </th>
+
+
+                    <th>
+
+
+                    </th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.USER_NAME)
+                        </td>
+
+                        <td>
+                            @Html.DisplayFor(modelItem => item.NAME_ENGLISH)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.EMAIL)
+                        </td>
+
+                        @if (Common.User.Has_Admin_Role)
+                        {
+                            <td>
+                                @Html.ActionLink(" ", "Edit", new { id = item.id }, new { @class = "fa fa-pencil btn-edit" }) |
+                                @Html.ActionLink(" ", "Details", new { id = item.id }, new { @class = "fa fa-eye btn-details" }) |
+                                @Html.ActionLink(" ", "Delete", new { id = item.id }, new { @class = "fa fa-trash-o btn-delete" })
+                            </td>
+                        }
+                    </tr>
+                }
+
+            </table>
+
+
+
+
+
+
+        </div><!--/.row-->
+    </div>	<!--/.main-->
+
+
+
+</div>

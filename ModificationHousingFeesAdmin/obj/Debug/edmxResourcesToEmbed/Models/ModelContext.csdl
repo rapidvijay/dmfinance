@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ModificationHousingFeesModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="ModificationHousingFeesEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Area_CommunitiesPlaces" EntityType="ModificationHousingFeesModel.Area_CommunitiesPlaces" />
+    <EntitySet Name="Areas" EntityType="ModificationHousingFeesModel.Area" />
+    <EntitySet Name="Community_Places" EntityType="ModificationHousingFeesModel.Community_Places" />
+    <EntitySet Name="property_Areas" EntityType="ModificationHousingFeesModel.property_Areas" />
+    <EntitySet Name="Property_Types" EntityType="ModificationHousingFeesModel.Property_Types" />
+    <EntitySet Name="Request_Modify_DM_Housing_Fees" EntityType="ModificationHousingFeesModel.Request_Modify_DM_Housing_Fees" />
+    <EntitySet Name="Users" EntityType="ModificationHousingFeesModel.User" />
+    <AssociationSet Name="FK_Area_Communities_Community_Place_Id" Association="ModificationHousingFeesModel.FK_Area_Communities_Community_Place_Id">
+      <End Role="Community_Places" EntitySet="Community_Places" />
+      <End Role="Area_CommunitiesPlaces" EntitySet="Area_CommunitiesPlaces" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Area_CommunitiesPlaces_Areas" Association="ModificationHousingFeesModel.FK_Area_CommunitiesPlaces_Areas">
+      <End Role="Area" EntitySet="Areas" />
+      <End Role="Area_CommunitiesPlaces" EntitySet="Area_CommunitiesPlaces" />
+    </AssociationSet>
+    <AssociationSet Name="FK_property_Areas_Area_Id" Association="ModificationHousingFeesModel.FK_property_Areas_Area_Id">
+      <End Role="Area" EntitySet="Areas" />
+      <End Role="property_Areas" EntitySet="property_Areas" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Request_Modify_DM_Housing_Fees_Areas" Association="ModificationHousingFeesModel.FK_Request_Modify_DM_Housing_Fees_Areas">
+      <End Role="Area" EntitySet="Areas" />
+      <End Role="Request_Modify_DM_Housing_Fees" EntitySet="Request_Modify_DM_Housing_Fees" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Request_Modify_DM_Housing_Fees_Community_Places" Association="ModificationHousingFeesModel.FK_Request_Modify_DM_Housing_Fees_Community_Places">
+      <End Role="Community_Places" EntitySet="Community_Places" />
+      <End Role="Request_Modify_DM_Housing_Fees" EntitySet="Request_Modify_DM_Housing_Fees" />
+    </AssociationSet>
+    <AssociationSet Name="FK_property_Areas_Property_Id" Association="ModificationHousingFeesModel.FK_property_Areas_Property_Id">
+      <End Role="Property_Types" EntitySet="Property_Types" />
+      <End Role="property_Areas" EntitySet="property_Areas" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Request_Modify_DM_Housing_Fees_Property_Type_Id" Association="ModificationHousingFeesModel.FK_Request_Modify_DM_Housing_Fees_Property_Type_Id">
+      <End Role="Property_Types" EntitySet="Property_Types" />
+      <End Role="Request_Modify_DM_Housing_Fees" EntitySet="Request_Modify_DM_Housing_Fees" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Request_Modify_DM_Approve_Manual_Update" Association="ModificationHousingFeesModel.FK_Request_Modify_DM_Approve_Manual_Update">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Request_Modify_DM_Housing_Fees" EntitySet="Request_Modify_DM_Housing_Fees" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Request_Modify_DM_Approved_Review_BY_User_Id" Association="ModificationHousingFeesModel.FK_Request_Modify_DM_Approved_Review_BY_User_Id">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Request_Modify_DM_Housing_Fees" EntitySet="Request_Modify_DM_Housing_Fees" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Request_Modify_DM_Locked_BY_User_Id" Association="ModificationHousingFeesModel.FK_Request_Modify_DM_Locked_BY_User_Id">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Request_Modify_DM_Housing_Fees" EntitySet="Request_Modify_DM_Housing_Fees" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Request_Modify_DM_Rejected_By_User_Id" Association="ModificationHousingFeesModel.FK_Request_Modify_DM_Rejected_By_User_Id">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Request_Modify_DM_Housing_Fees" EntitySet="Request_Modify_DM_Housing_Fees" />
+    </AssociationSet>
+    <EntitySet Name="HousingFeesExceptionLogs" EntityType="ModificationHousingFeesModel.HousingFeesExceptionLog" />
+  </EntityContainer>
+  <EntityType Name="Area_CommunitiesPlaces">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Area_Id" Type="Int32" Nullable="false" />
+    <Property Name="Community_Id" Type="Int32" Nullable="false" />
+    <Property Name="Created_By" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Creation_Date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Update_By" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Update_Date" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Community_Places" Relationship="ModificationHousingFeesModel.FK_Area_Communities_Community_Place_Id" FromRole="Area_CommunitiesPlaces" ToRole="Community_Places" />
+    <NavigationProperty Name="Area" Relationship="ModificationHousingFeesModel.FK_Area_CommunitiesPlaces_Areas" FromRole="Area_CommunitiesPlaces" ToRole="Area" />
+  </EntityType>
+  <EntityType Name="Area">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Arabic_Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="English_Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Created_By" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Creation_Date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Update_Date" Type="DateTime" Precision="3" />
+    <Property Name="Updated_By" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Area_CommunitiesPlaces" Relationship="ModificationHousingFeesModel.FK_Area_CommunitiesPlaces_Areas" FromRole="Area" ToRole="Area_CommunitiesPlaces" />
+    <NavigationProperty Name="property_Areas" Relationship="ModificationHousingFeesModel.FK_property_Areas_Area_Id" FromRole="Area" ToRole="property_Areas" />
+    <NavigationProperty Name="Request_Modify_DM_Housing_Fees" Relationship="ModificationHousingFeesModel.FK_Request_Modify_DM_Housing_Fees_Areas" FromRole="Area" ToRole="Request_Modify_DM_Housing_Fees" />
+  </EntityType>
+  <EntityType Name="Community_Places">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Arabic_Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="English_Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Created_By" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Creation_Date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Update_Date" Type="DateTime" Precision="3" />
+    <Property Name="Updated_By" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Area_CommunitiesPlaces" Relationship="ModificationHousingFeesModel.FK_Area_Communities_Community_Place_Id" FromRole="Community_Places" ToRole="Area_CommunitiesPlaces" />
+    <NavigationProperty Name="Request_Modify_DM_Housing_Fees" Relationship="ModificationHousingFeesModel.FK_Request_Modify_DM_Housing_Fees_Community_Places" FromRole="Community_Places" ToRole="Request_Modify_DM_Housing_Fees" />
+  </EntityType>
+  <EntityType Name="property_Areas">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Property_Id" Type="Int32" Nullable="false" />
+    <Property Name="Area_Id" Type="Int32" Nullable="false" />
+    <Property Name="Created_By" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Creation_Date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Update_By" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Update_Date" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Area" Relationship="ModificationHousingFeesModel.FK_property_Areas_Area_Id" FromRole="property_Areas" ToRole="Area" />
+    <NavigationProperty Name="Property_Types" Relationship="ModificationHousingFeesModel.FK_property_Areas_Property_Id" FromRole="property_Areas" ToRole="Property_Types" />
+  </EntityType>
+  <EntityType Name="Property_Types">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Arabic_Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="English_Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Created_By" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Updated_By" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Creation_Date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Update_Date" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="property_Areas" Relationship="ModificationHousingFeesModel.FK_property_Areas_Property_Id" FromRole="Property_Types" ToRole="property_Areas" />
+    <NavigationProperty Name="Request_Modify_DM_Housing_Fees" Relationship="ModificationHousingFeesModel.FK_Request_Modify_DM_Housing_Fees_Property_Type_Id" FromRole="Property_Types" ToRole="Request_Modify_DM_Housing_Fees" />
+  </EntityType>
+  <EntityType Name="Request_Modify_DM_Housing_Fees">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="RequestorType" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="AccountNumber" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NumberOfRooms" Type="Int32" />
+    <Property Name="EmailAddress" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PropertyType" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PremiseNumber" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="MobileNumber" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Remarks" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="MakaniNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Xcoordinator" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Ycoordinator" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PlotNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="StreetNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="StreetName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="BuildingNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="OfficeNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PointOfSample" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CopyOfDewaBill" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="MimeTypeCopyOfDewaBill" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LetterFromOwnerMentioningMeters" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="MimeTypeLetterFromOwnerMentioningMeters" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CopyOfEjariCertificate" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="MimeTypeCopyOfEjariCertificate" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CreatedBy" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Creation_Date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="UpdatedBy" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Updated_Date" Type="DateTime" Precision="3" />
+    <Property Name="Status" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TitleDeed" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="MimeTypeTitleDeed" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="LayoutAttachmentBinary" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="MimeTypeLayout" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="RejectionReason" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Employee_Comment" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Approved_Review_By_User_Id" Type="Int32" />
+    <Property Name="Rejected_By_User_Id" Type="Int32" />
+    <Property Name="Locked_By_User_Id" Type="Int32" />
+    <Property Name="Approved_Manual_Update_By_User_Id" Type="Int32" />
+    <Property Name="PropertyId" Type="Int32" />
+    <Property Name="AreaId" Type="Int32" />
+    <Property Name="communityPlaceId" Type="Int32" />
+    <Property Name="lang" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CopyOfDewaBill_FileName" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="LetterFromOwnerMentioningMeters_FileName" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="CopyOfEjariCertificate_FileName" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="TitleDeed_FileName" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="LayoutAttachment_FileName" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Area" Relationship="ModificationHousingFeesModel.FK_Request_Modify_DM_Housing_Fees_Areas" FromRole="Request_Modify_DM_Housing_Fees" ToRole="Area" />
+    <NavigationProperty Name="Community_Places" Relationship="ModificationHousingFeesModel.FK_Request_Modify_DM_Housing_Fees_Community_Places" FromRole="Request_Modify_DM_Housing_Fees" ToRole="Community_Places" />
+    <NavigationProperty Name="Property_Types" Relationship="ModificationHousingFeesModel.FK_Request_Modify_DM_Housing_Fees_Property_Type_Id" FromRole="Request_Modify_DM_Housing_Fees" ToRole="Property_Types" />
+    <NavigationProperty Name="User" Relationship="ModificationHousingFeesModel.FK_Request_Modify_DM_Approve_Manual_Update" FromRole="Request_Modify_DM_Housing_Fees" ToRole="User" />
+    <NavigationProperty Name="User1" Relationship="ModificationHousingFeesModel.FK_Request_Modify_DM_Approved_Review_BY_User_Id" FromRole="Request_Modify_DM_Housing_Fees" ToRole="User" />
+    <NavigationProperty Name="User2" Relationship="ModificationHousingFeesModel.FK_Request_Modify_DM_Locked_BY_User_Id" FromRole="Request_Modify_DM_Housing_Fees" ToRole="User" />
+    <NavigationProperty Name="User3" Relationship="ModificationHousingFeesModel.FK_Request_Modify_DM_Rejected_By_User_Id" FromRole="Request_Modify_DM_Housing_Fees" ToRole="User" />
+    <Property Name="OwnerName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="EjariNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ContractAddress" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ContractEndDate" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="EjariRegisteredBy" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="HousingFees" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="USER_NAME" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NAME_ARABIC" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NAME_ENGLISH" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="EMAIL" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Has_Review_Role" Type="Boolean" Nullable="false" />
+    <Property Name="Has_Manul_Update_Role_In_Dewa" Type="Boolean" Nullable="false" />
+    <Property Name="Created_By" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Creation_Date" Type="DateTime" Precision="3" />
+    <Property Name="Updated_By" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Update_Date" Type="DateTime" Precision="3" />
+    <Property Name="Has_Admin_Role" Type="Boolean" Nullable="false" />
+    <Property Name="Last_Login" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Request_Modify_DM_Housing_Fees" Relationship="ModificationHousingFeesModel.FK_Request_Modify_DM_Approve_Manual_Update" FromRole="User" ToRole="Request_Modify_DM_Housing_Fees" />
+    <NavigationProperty Name="Request_Modify_DM_Housing_Fees1" Relationship="ModificationHousingFeesModel.FK_Request_Modify_DM_Approved_Review_BY_User_Id" FromRole="User" ToRole="Request_Modify_DM_Housing_Fees" />
+    <NavigationProperty Name="Request_Modify_DM_Housing_Fees2" Relationship="ModificationHousingFeesModel.FK_Request_Modify_DM_Locked_BY_User_Id" FromRole="User" ToRole="Request_Modify_DM_Housing_Fees" />
+    <NavigationProperty Name="Request_Modify_DM_Housing_Fees3" Relationship="ModificationHousingFeesModel.FK_Request_Modify_DM_Rejected_By_User_Id" FromRole="User" ToRole="Request_Modify_DM_Housing_Fees" />
+  </EntityType>
+  <Association Name="FK_Area_Communities_Community_Place_Id">
+    <End Type="ModificationHousingFeesModel.Community_Places" Role="Community_Places" Multiplicity="1" />
+    <End Type="ModificationHousingFeesModel.Area_CommunitiesPlaces" Role="Area_CommunitiesPlaces" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Community_Places">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Area_CommunitiesPlaces">
+        <PropertyRef Name="Community_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Area_CommunitiesPlaces_Areas">
+    <End Type="ModificationHousingFeesModel.Area" Role="Area" Multiplicity="1" />
+    <End Type="ModificationHousingFeesModel.Area_CommunitiesPlaces" Role="Area_CommunitiesPlaces" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Area">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Area_CommunitiesPlaces">
+        <PropertyRef Name="Area_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_property_Areas_Area_Id">
+    <End Type="ModificationHousingFeesModel.Area" Role="Area" Multiplicity="1" />
+    <End Type="ModificationHousingFeesModel.property_Areas" Role="property_Areas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Area">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="property_Areas">
+        <PropertyRef Name="Area_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Request_Modify_DM_Housing_Fees_Areas">
+    <End Type="ModificationHousingFeesModel.Area" Role="Area" Multiplicity="0..1" />
+    <End Type="ModificationHousingFeesModel.Request_Modify_DM_Housing_Fees" Role="Request_Modify_DM_Housing_Fees" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Area">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Request_Modify_DM_Housing_Fees">
+        <PropertyRef Name="AreaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Request_Modify_DM_Housing_Fees_Community_Places">
+    <End Type="ModificationHousingFeesModel.Community_Places" Role="Community_Places" Multiplicity="0..1" />
+    <End Type="ModificationHousingFeesModel.Request_Modify_DM_Housing_Fees" Role="Request_Modify_DM_Housing_Fees" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Community_Places">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Request_Modify_DM_Housing_Fees">
+        <PropertyRef Name="communityPlaceId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_property_Areas_Property_Id">
+    <End Type="ModificationHousingFeesModel.Property_Types" Role="Property_Types" Multiplicity="1" />
+    <End Type="ModificationHousingFeesModel.property_Areas" Role="property_Areas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Property_Types">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="property_Areas">
+        <PropertyRef Name="Property_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Request_Modify_DM_Housing_Fees_Property_Type_Id">
+    <End Type="ModificationHousingFeesModel.Property_Types" Role="Property_Types" Multiplicity="0..1" />
+    <End Type="ModificationHousingFeesModel.Request_Modify_DM_Housing_Fees" Role="Request_Modify_DM_Housing_Fees" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Property_Types">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Request_Modify_DM_Housing_Fees">
+        <PropertyRef Name="PropertyId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Request_Modify_DM_Approve_Manual_Update">
+    <End Type="ModificationHousingFeesModel.User" Role="User" Multiplicity="0..1" />
+    <End Type="ModificationHousingFeesModel.Request_Modify_DM_Housing_Fees" Role="Request_Modify_DM_Housing_Fees" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Request_Modify_DM_Housing_Fees">
+        <PropertyRef Name="Approved_Manual_Update_By_User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Request_Modify_DM_Approved_Review_BY_User_Id">
+    <End Type="ModificationHousingFeesModel.User" Role="User" Multiplicity="0..1" />
+    <End Type="ModificationHousingFeesModel.Request_Modify_DM_Housing_Fees" Role="Request_Modify_DM_Housing_Fees" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Request_Modify_DM_Housing_Fees">
+        <PropertyRef Name="Approved_Review_By_User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Request_Modify_DM_Locked_BY_User_Id">
+    <End Type="ModificationHousingFeesModel.User" Role="User" Multiplicity="0..1" />
+    <End Type="ModificationHousingFeesModel.Request_Modify_DM_Housing_Fees" Role="Request_Modify_DM_Housing_Fees" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Request_Modify_DM_Housing_Fees">
+        <PropertyRef Name="Locked_By_User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Request_Modify_DM_Rejected_By_User_Id">
+    <End Type="ModificationHousingFeesModel.User" Role="User" Multiplicity="0..1" />
+    <End Type="ModificationHousingFeesModel.Request_Modify_DM_Housing_Fees" Role="Request_Modify_DM_Housing_Fees" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Request_Modify_DM_Housing_Fees">
+        <PropertyRef Name="Rejected_By_User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="HousingFeesExceptionLog">
+    <Key>
+      <PropertyRef Name="Logid" />
+    </Key>
+    <Property Name="Logid" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ExceptionMsg" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="ExceptionType" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="ExceptionSource" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ExceptionURL" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Logdate" Type="DateTime" Precision="3" />
+  </EntityType>
+</Schema>

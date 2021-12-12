@@ -1,0 +1,147 @@
+﻿@model ModificationHousingFeesAdmin.Models.Property_Types
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@*<h2>Details</h2>
+
+    <div>
+        <h4>Property_Types</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Arabic_Name)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Arabic_Name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.English_Name)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.English_Name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Created_By)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Created_By)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Updated_By)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Updated_By)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Creation_Date)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Creation_Date)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Update_Date)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Update_Date)
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>*@
+
+
+
+<div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2 main">
+
+    <div class="breadcrumb flat">
+        <a href="#" style="cursor: default">
+            <em class="fa fa-home"></em>
+        </a>
+
+        <a href="#" style="cursor: default" class="active">View Property</a>
+    </div>
+
+    <div class="panel panel-default">
+        <div class="panel-heading">Detail Property</div>
+        <div class="panel-body">
+
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+            <div class="form-horizontal">
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                @Html.HiddenFor(model => model.Id, new { @id = "hiddenPropertyId" })
+
+                <input type="hidden" id="displayId" value="@ViewBag.display" name="displayId" />
+
+                <div class="form-group">
+                    <label class="control-label col-sm-3" for="">Name Arabic</label>
+
+                    <div class="col-md-9">
+                        @Html.EditorFor(model => model.Arabic_Name, new { htmlAttributes = new { @class = "form-control", @readonly = "true" } })
+                        @Html.ValidationMessageFor(model => model.Arabic_Name, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-sm-3" for="">Name English</label>
+                    <div class="col-md-9">
+                        @Html.EditorFor(model => model.English_Name, new { htmlAttributes = new { @class = "form-control", @readonly = "true" } })
+                        @Html.ValidationMessageFor(model => model.English_Name, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="panel panel-primary list-panel" id="list-panel">
+                            <div class="panel-heading list-panel-heading">
+
+
+                            </div>
+                            <div class="panel-body">
+                                <table id="areas-data-table" class="add_area table table-striped table-bordered" style="width:100%;"></table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-9">
+                        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }, new { @class = "btn btn-info" })
+                        @Html.ActionLink("Show Properties", "Index", null, new { @class = "btn btn-info" })
+                    </div>
+                </div>
+            </div>
+            }
+
+
+        </div>
+
+
+
+
+
+
+    </div><!--/.row-->
+</div>	<!--/.main-->

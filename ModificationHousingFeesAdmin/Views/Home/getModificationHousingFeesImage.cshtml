@@ -1,0 +1,100 @@
+﻿
+@{
+    Layout = null;
+}
+
+
+
+<h2></h2>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Modification Housing Fees Image</title>
+
+
+   
+    <!--Custom Font-->
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body  >
+
+    @if (ViewBag.mimeType == "application/pdf")
+    {
+
+    <p align="center">
+        @*<iframe src="@ViewBag.data" align="middle" style="display:block" width="1200" height="800" type='application/pdf' />*@
+
+        @*<iframe src="@ViewBag.filePath" align="middle"  width="1200" height="800" type='application/pdf' />*@
+    </p>
+    }
+    else
+    {
+
+        @*<img class="img-responsive img-rounded" style="display: block;width: 70%;margin-left: auto;margin-right: auto;" height="90%" src="@ViewBag.data">*@
+
+    }
+
+
+    
+    <script>
+            function b64toBlob(b64Data, contentType, sliceSize) {
+                contentType = contentType || '';
+                sliceSize = sliceSize || 512;
+
+                var byteCharacters = atob(b64Data);
+                var byteArrays = [];
+
+                for (var offset = 0; offset < byteCharacters.length; offset += sliceSize) {
+                    var slice = byteCharacters.slice(offset, offset + sliceSize);
+
+                    var byteNumbers = new Array(slice.length);
+                    for (var i = 0; i < slice.length; i++) {
+                        byteNumbers[i] = slice.charCodeAt(i);
+                    }
+
+                    var byteArray = new Uint8Array(byteNumbers);
+
+                    byteArrays.push(byteArray);
+                }
+
+                var blob = new Blob(byteArrays, { type: contentType });
+                return blob;
+            }
+
+            var mimeType  = '@ViewBag.mimeType';
+            var contentType = mimeType;
+            var b64Data = '@ViewBag.data';
+            var blob = b64toBlob(b64Data, contentType);
+            var blobUrl = URL.createObjectURL(blob);
+
+            if (mimeType == 'application/pdf') {
+                var img = document.createElement('iframe');
+                img.src = blobUrl;
+                img.width = 1200;
+                img.height = "800"
+                console.log(blobUrl);
+                document.body.appendChild(img);
+            } else {
+                var img = document.createElement('img');
+                img.src = blobUrl;
+                img.width = 1200;
+                img.height = "800"
+                console.log(blobUrl);
+                document.body.appendChild(img);
+            }
+
+    </script>
+
+
+
+</body>
+</html>
+
+

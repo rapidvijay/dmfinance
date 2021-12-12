@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:intf="http://www.dm.gov.ae/dmsmg/DmSmsBrokerService/v1" xmlns:apachesoap="http://xml.apache.org/xml-soap" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns1="http://www.dm.gov.ae/dmsmg/DmSmsBroker/v1" xmlns:impl="http://www.dm.gov.ae/dmsmg/DmSmsBrokerService/v1" targetNamespace="http://www.dm.gov.ae/dmsmg/DmSmsBrokerService/v1" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.dm.gov.ae/dmsmg/DmSmsBrokerService/v1">
+      <xsd:import namespace="http://www.dm.gov.ae/dmsmg/DmSmsBroker/v1" />
+      <xsd:complexType name="ArrayOf_xsd_string">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="item" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="DmSmsBrokerRequest" type="tns1:DmSmsBrokerRequestMessage" />
+      <xsd:complexType name="ArrayOf_tns1_PropertyType">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="item" type="tns1:PropertyType" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="ArrayOf_tns1_SMSResponseType">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="item" type="tns1:SMSResponseType" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="DmSmsBrokerPesponse" type="tns1:DmSmsBrokerPesponseMessage" />
+    </xsd:schema>
+    <xsd:schema xmlns="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://www.dm.gov.ae/dmsmg/DmSmsBroker/v1">
+      <xsd:import namespace="http://www.dm.gov.ae/dmsmg/DmSmsBrokerService/v1" />
+      <xsd:complexType name="DmSmsBrokerRequestMessage">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="1" name="TransactionID" nillable="true" type="xsd:string" />
+          <xsd:element name="Message" nillable="true" type="xsd:string" />
+          <xsd:element name="Recipients" nillable="true" type="impl:ArrayOf_xsd_string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="CodedValue">
+        <xsd:sequence>
+          <xsd:element name="Code" nillable="true" type="xsd:string" />
+          <xsd:element name="Message" nillable="true" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="PropertyType">
+        <xsd:sequence>
+          <xsd:element name="Name" nillable="true" type="xsd:string" />
+          <xsd:element name="Value" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="Type" nillable="true" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="SMSResponseType">
+        <xsd:sequence>
+          <xsd:element name="Recipient" nillable="true" type="xsd:string" />
+          <xsd:element name="StatusCode" nillable="true" type="tns1:CodedValue" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="Extensions" nillable="true" type="impl:ArrayOf_tns1_PropertyType" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="SMSAcknowledgementType">
+        <xsd:sequence>
+          <xsd:element name="SMSResponseList" type="impl:ArrayOf_tns1_SMSResponseType" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="DmSmsBrokerPesponseMessage">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="1" name="TransactionID" nillable="true" type="xsd:string" />
+          <xsd:element name="Message" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="SMSAcknowledgement" type="tns1:SMSAcknowledgementType" />
+        </xsd:sequence>
+      </xsd:complexType>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="sendMultipleSMSRequest">
+    <wsdl:part name="DmSmsBrokerRequest" element="impl:DmSmsBrokerRequest" />
+  </wsdl:message>
+  <wsdl:message name="sendMultipleSMSResponse">
+    <wsdl:part name="DmSmsBrokerPesponse" element="impl:DmSmsBrokerPesponse" />
+  </wsdl:message>
+  <wsdl:portType name="DmSmsBrokerServicePT">
+    <wsdl:operation name="sendMultipleSMS" parameterOrder="DmSmsBrokerRequest">
+      <wsdl:input name="sendMultipleSMSRequest" message="impl:sendMultipleSMSRequest" />
+      <wsdl:output name="sendMultipleSMSResponse" message="impl:sendMultipleSMSResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="DmSmsBrokerServicePSoapBinding" type="impl:DmSmsBrokerServicePT">
+    <wsdlsoap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="sendMultipleSMS">
+      <wsdlsoap:operation soapAction="http://www.dm.gov.ae/dmsmg/DmSmsBrokerService/v1/sendMultipleSMS" />
+      <wsdl:input name="sendMultipleSMSRequest">
+        <wsdlsoap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="sendMultipleSMSResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="DmSmsBrokerService">
+    <wsdl:port name="DmSmsBrokerServiceP" binding="impl:DmSmsBrokerServicePSoapBinding">
+      <wsdlsoap:address location="http://bexml10.dm.gov.ae:3030/DMSmsGatewayBroker/services/DmSmsBrokerServiceP" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

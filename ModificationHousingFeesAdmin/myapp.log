@@ -1,0 +1,732 @@
+2019-01-30 17:29:46,609 [5] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= REACH_MFAYEK & ipAddress=::1
+2019-01-30 17:33:34,180 [5] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= REACH_MFAYEK & ipAddress=::1
+2019-01-30 18:05:23,522 [5] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=REACH_MFAYEK &ipAddress=::1
+2019-01-30 18:05:35,119 [5] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= REACH_MFAYEK & ipAddress=::1
+2019-01-31 15:51:18,680 [13540] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= REACH_MFAYEK & ipAddress=::1
+2019-01-31 16:51:23,575 [15096] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= REACH_MFAYEK & ipAddress=::1
+2019-02-11 15:34:19,219 [5] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= REACH_MFAYEK & ipAddress=::1
+2019-02-13 13:54:22,326 [17] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= REACH_MFAYEK & ipAddress=::1
+2019-02-13 15:23:57,842 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= REACH_MFAYEK & ipAddress=::1
+2019-02-13 15:28:20,252 [5] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= REACH_MFAYEK & ipAddress=::1
+2019-02-21 08:33:43,697 [6] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=REACH_MFAYEK &ipAddress=::1
+2019-02-21 08:33:45,782 [7] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=REACH_MFAYEK &ipAddress=::1
+2019-02-21 08:33:58,754 [5] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= REACH_MFAYEK & ipAddress=::1
+2019-06-24 10:18:08,443 [54] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-06-24 10:20:44,220 [15] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-06-24 10:22:13,459 [5] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-06-24 11:21:39,252 [135] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-06-24 11:35:49,762 [104] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-06-24 11:38:03,047 [97] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-04 09:09:11,447 [19] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-07 11:59:21,044 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-07 13:11:48,313 [137] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-08 12:10:31,788 [174] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-14 09:26:36,736 [18] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-14 09:27:58,160 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-14 09:29:18,374 [12] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-14 10:50:18,306 [150] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_MGGIRGIS &ipAddress=::1
+2019-08-14 10:50:26,312 [154] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-14 11:22:59,382 [127] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-14 11:23:51,106 [127] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-14 11:37:58,654 [164] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-14 12:35:51,986 [39] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-14 12:39:38,868 [186] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-14 13:21:21,182 [89] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-14 13:31:23,599 [95] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-14 13:32:28,576 [87] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-14 13:33:47,710 [107] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-14 13:35:19,707 [95] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-14 13:37:17,589 [93] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-14 13:38:09,180 [82] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 09:13:08,087 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 10:01:40,092 [125] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_MGGIRGIS &ipAddress=::1
+2019-08-15 10:01:48,358 [125] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 10:08:58,150 [112] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 10:10:59,826 [129] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 10:12:42,270 [116] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 10:27:36,833 [111] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 10:29:10,546 [120] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 10:30:28,560 [120] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 11:09:56,921 [33] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 11:11:19,226 [28] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 11:12:56,943 [37] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 11:14:38,693 [31] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 11:22:45,795 [59] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 11:31:23,965 [48] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 11:38:57,435 [51] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 11:39:58,062 [24] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 11:41:32,702 [31] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 11:45:06,248 [30] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 11:47:11,065 [15] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 11:50:13,348 [14] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 11:50:59,796 [26] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 11:53:20,964 [5] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_MGGIRGIS &ipAddress=::1
+2019-08-15 11:53:28,855 [20] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 11:58:56,613 [21] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 13:02:57,943 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 13:27:08,364 [74] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-15 14:19:47,995 [169] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-18 08:45:13,086 [14] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-18 11:05:26,752 [125] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-18 11:07:43,708 [128] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-18 11:11:26,937 [121] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-18 11:14:22,388 [128] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-18 11:20:00,371 [121] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-18 11:22:21,144 [125] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-18 11:25:15,063 [124] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-18 11:28:14,631 [125] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-18 11:35:09,556 [125] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-18 11:35:44,809 [124] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_MGGIRGIS &ipAddress=::1
+2019-08-18 11:35:53,099 [125] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-18 11:44:08,960 [124] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-18 11:45:24,009 [125] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-20 10:47:56,445 [12] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-20 12:36:21,212 [6] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_MGGIRGIS &ipAddress=::1
+2019-08-20 12:36:34,564 [6] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-20 12:49:44,152 [45] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= ISYX_MGGIRGIS &ipAddress=::1
+2019-08-20 12:50:00,184 [35] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-20 12:56:03,244 [6] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-20 12:57:24,220 [38] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-20 13:01:19,905 [35] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-20 13:02:23,486 [6] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-20 13:06:45,670 [35] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-20 13:07:45,687 [39] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-20 13:12:19,823 [45] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-20 13:24:11,546 [39] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-20 13:25:32,341 [42] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-22 12:57:54,074 [6] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-22 13:06:57,791 [18] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-22 13:17:04,710 [25] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-22 13:18:09,262 [48] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-22 13:19:09,007 [41] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-22 13:21:43,232 [32] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-22 13:24:29,072 [47] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-22 14:52:52,991 [102] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-22 15:00:28,962 [76] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-22 15:02:46,162 [99] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-22 15:05:36,628 [96] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-22 15:18:03,482 [41] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_MGGIRGIS &ipAddress=::1
+2019-08-22 15:18:12,916 [46] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-22 15:19:35,197 [41] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-22 15:36:34,473 [86] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-26 11:04:07,608 [9] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_MGGIRGIS &ipAddress=::1
+2019-08-26 11:30:18,868 [69] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-26 11:31:43,771 [65] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_MGGIRGIS &ipAddress=::1
+2019-08-26 11:31:51,119 [63] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_MGGIRGIS &ipAddress=::1
+2019-08-26 11:32:21,918 [63] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-26 11:33:03,922 [70] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_MGGIRGIS &ipAddress=::1
+2019-08-26 11:33:11,251 [59] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_MGGIRGIS &ipAddress=::1
+2019-08-26 11:33:18,857 [36] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-26 11:44:12,477 [54] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-26 11:53:09,545 [65] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-26 11:55:15,070 [56] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-26 12:06:44,461 [46] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-26 12:09:13,333 [43] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-26 12:10:43,726 [56] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_MGGIRGIS &ipAddress=::1
+2019-08-26 12:10:54,311 [62] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-26 12:11:49,144 [65] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-26 12:15:25,488 [70] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-26 12:16:41,911 [59] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-26 12:19:01,727 [50] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-26 12:33:23,382 [46] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-26 12:34:53,706 [67] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-26 12:37:46,508 [50] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-26 12:49:16,915 [64] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_MGGIRGIS &ipAddress=::1
+2019-08-26 12:49:23,648 [59] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-26 12:55:35,043 [47] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-26 14:03:01,762 [101] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-26 14:06:05,800 [125] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_MGGIRGIS &ipAddress=::1
+2019-08-26 14:06:20,371 [122] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-26 14:55:12,378 [150] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-26 14:56:54,621 [144] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-26 14:59:32,188 [143] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-26 15:03:39,244 [151] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-26 15:08:32,375 [133] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 08:14:57,545 [27] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 08:16:13,189 [34] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 08:16:50,873 [27] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 08:17:31,635 [27] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 08:19:27,111 [16] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 08:22:04,665 [36] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 08:23:05,462 [7] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 08:24:18,059 [23] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 09:31:37,882 [146] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_MGGIRGIS &ipAddress=::1
+2019-08-27 09:31:48,985 [148] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 09:34:09,262 [140] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 09:37:39,043 [146] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 09:40:03,271 [149] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 09:42:59,366 [141] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 09:45:50,857 [137] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 09:47:50,679 [11] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 09:49:03,281 [126] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 09:52:51,131 [126] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_MGGIRGIS &ipAddress=::1
+2019-08-27 09:53:05,950 [130] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 09:56:05,780 [146] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_MGGIRGIS &ipAddress=::1
+2019-08-27 09:56:16,795 [88] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 09:58:29,405 [19] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 10:10:34,306 [128] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 10:12:04,891 [128] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 10:14:03,169 [143] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 10:15:51,747 [126] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 10:18:38,469 [130] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 10:23:20,099 [33] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 10:26:21,572 [140] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 10:30:43,147 [34] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 10:32:17,265 [123] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 10:41:54,645 [31] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 10:44:11,656 [118] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 10:45:48,994 [122] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 10:53:40,013 [143] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 10:58:41,736 [143] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 11:01:50,551 [20] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 11:05:52,993 [20] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 11:30:12,064 [103] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 11:32:21,480 [105] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 11:33:13,715 [104] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 11:47:33,675 [125] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_MGGIRGIS &ipAddress=::1
+2019-08-27 11:47:40,656 [132] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 11:54:09,522 [122] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_MGGIRGIS &ipAddress=::1
+2019-08-27 11:54:15,761 [33] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 11:57:39,352 [33] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 12:01:36,233 [114] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 12:30:56,331 [123] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 12:41:50,766 [72] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 12:44:13,568 [73] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 12:56:07,633 [128] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-08-27 13:05:56,009 [130] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-09-02 14:05:42,126 [19] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_MGGIRGIS &ipAddress=::1
+2019-09-02 14:09:24,946 [17] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-09-02 14:18:53,889 [17] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-09-02 14:20:49,320 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-09-03 08:53:07,954 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-09-03 08:58:42,035 [7] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-09-03 09:06:03,771 [47] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-09-03 09:10:54,654 [48] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-09-03 09:32:39,330 [98] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-09-04 10:13:46,194 [19] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-09-04 10:17:42,625 [12] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-09-04 10:34:01,051 [56] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-09-08 12:59:29,045 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-09-08 13:01:27,811 [23] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2019-09-08 13:13:19,881 [27] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2020-01-09 12:39:34,755 [7] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2020-02-04 11:56:58,618 [98] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= ISYX_MGGIRGIS &ipAddress=::1
+2020-02-04 11:57:09,447 [96] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= ISYX_MGGIRGIS &ipAddress=::1
+2020-02-04 11:57:22,306 [96] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= ISYX_MGGIRGIS &ipAddress=::1
+2020-02-04 12:07:45,335 [81] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= ISYX_MGGIRGIS &ipAddress=::1
+2020-02-04 12:09:47,142 [80] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2020-02-04 12:10:36,586 [106] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2020-02-04 12:12:56,861 [80] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2020-02-04 12:18:58,800 [86] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2020-02-04 12:23:27,814 [90] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2020-02-04 12:26:28,663 [89] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2020-02-04 12:41:45,168 [81] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2020-02-11 09:18:03,351 [3] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2020-02-11 09:24:14,476 [27] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2020-02-11 11:05:05,396 [102] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2020-02-16 09:23:15,622 [21] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_MGGIRGIS &ipAddress=::1
+2020-02-16 13:53:16,033 [33] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2020-02-16 13:56:19,743 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2020-02-16 14:46:01,627 [113] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2020-02-17 09:40:51,993 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2020-02-17 09:51:12,472 [29] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2020-02-17 09:54:40,816 [36] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2020-02-17 11:23:58,509 [24] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2020-02-17 13:16:51,275 [124] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2020-02-17 13:42:53,763 [119] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2020-02-18 11:37:10,947 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_MGGIRGIS & ipAddress=::1
+2020-04-14 15:07:57,025 [5] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_AMOHAMMED &ipAddress=::1
+2020-04-14 15:08:12,620 [5] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_AMOHAMMED & ipAddress=::1
+2020-04-14 15:08:52,150 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_AMOHAMMED & ipAddress=::1
+2020-04-14 15:36:04,407 [7] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_AMOHAMMED & ipAddress=::1
+2020-04-14 15:40:17,823 [17] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_AMOHAMMED & ipAddress=::1
+2020-04-14 15:49:43,852 [7] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_AMOHAMMED & ipAddress=::1
+2020-04-14 16:29:14,097 [6] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_MGGIRGIS &ipAddress=::1
+2020-04-14 16:29:47,594 [6] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME= ISYX_AMOHAMMED &ipAddress=::1
+2020-04-14 16:31:17,939 [8] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_AMOHAMMED &ipAddress=::1
+2020-04-14 16:33:35,416 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_AMOHAMMED & ipAddress=::1
+2020-04-14 16:39:08,391 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_AMOHAMMED & ipAddress=::1
+2020-04-14 16:39:08,929 [23] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_AMOHAMMED &ipAddress=::1
+2020-04-14 16:42:18,330 [36] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_AMOHAMMED & ipAddress=::1
+2020-04-14 17:06:29,794 [12] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_AMOHAMMED & ipAddress=::1
+2020-04-14 17:07:48,763 [5] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_AMOHAMMED & ipAddress=::1
+2020-04-15 11:26:01,569 [96] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_AMOHAMMED & ipAddress=::1
+2020-04-15 12:12:17,488 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_AMOHAMMED & ipAddress=::1
+2020-04-15 13:37:14,377 [7] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_AMOHAMMED & ipAddress=::1
+2020-04-15 14:14:11,893 [6] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_AMOHAMMED & ipAddress=::1
+2020-04-15 14:24:34,924 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_AMOHAMMED & ipAddress=::1
+2020-04-15 14:38:42,277 [42] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_AMOHAMMED & ipAddress=::1
+2020-04-15 14:55:21,809 [7] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=ISYX_AMOHAMMED &ipAddress=::1
+2020-04-15 14:55:25,485 [6] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= ISYX_AMOHAMMED & ipAddress=::1
+2021-03-11 16:02:17,037 [14] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Failed To authenticate User  USER_NAME=reach_AMOHAMMED1 &ipAddress=::1
+2021-03-11 16:06:02,614 [11] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_AMOHAMMED1 & ipAddress=::1
+2021-04-04 11:02:26,698 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_AMOHAMMED1 & ipAddress=::1
+2021-04-05 13:07:38,581 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_AMOHAMMED1 & ipAddress=::1
+2021-04-05 13:08:58,000 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_AMOHAMMED1 & ipAddress=::1
+2021-07-25 07:33:44,261 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_AMOHAMMED1 & ipAddress=::1
+2021-09-20 11:14:48,140 [16] ERROR ModificationHousingFeesAdmin.Controllers.HomeController -  You are not authorized to access the application Reach_TIniyal &ipAddress=::1
+2021-09-20 11:17:09,603 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-20 12:14:32,220 [12] ERROR ModificationHousingFeesAdmin.Controllers.HomeController -  You are not authorized to access the application Reach_TIniyal &ipAddress=::1
+2021-09-20 12:18:03,008 [33] ERROR ModificationHousingFeesAdmin.Controllers.HomeController -  You are not authorized to access the application Reach_TIniyal &ipAddress=::1
+2021-09-20 12:35:10,444 [47] ERROR ModificationHousingFeesAdmin.Controllers.HomeController -  You are not authorized to access the application Reach_TIniyal &ipAddress=::1
+2021-09-20 12:35:23,428 [71] ERROR ModificationHousingFeesAdmin.Controllers.HomeController -  You are not authorized to access the application Reach_TIniyal &ipAddress=::1
+2021-09-20 12:35:30,247 [71] ERROR ModificationHousingFeesAdmin.Controllers.HomeController -  You are not authorized to access the application Reach_TIniyal &ipAddress=::1
+2021-09-20 12:37:06,732 [71] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-20 12:45:09,880 [13] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-09-20 12:45:28,999 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-20 13:00:00,560 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-20 14:24:31,033 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-20 14:26:23,066 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-20 14:39:12,492 [9] ERROR ModificationHousingFeesAdmin.Controllers.HomeController -  Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-09-20 14:40:18,303 [9] ERROR ModificationHousingFeesAdmin.Controllers.HomeController -  Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-09-20 14:40:57,961 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-20 14:48:33,172 [14] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-21 09:48:55,527 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_tiniyal & ipAddress=::1
+2021-09-21 10:59:40,880 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_tiniyal & ipAddress=::1
+2021-09-21 11:11:20,480 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_tiniyal & ipAddress=::1
+2021-09-21 11:28:30,749 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_tiniyal & ipAddress=::1
+2021-09-21 11:36:03,547 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_tiniyal & ipAddress=::1
+2021-09-21 12:20:25,874 [10] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= reach_tiniyal &ipAddress=::1
+2021-09-21 12:33:34,275 [17] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= reach_tiniyal &ipAddress=::1
+2021-09-21 12:35:22,685 [12] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_tiniyal & ipAddress=::1
+2021-09-21 12:38:45,646 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-21 12:53:39,623 [20] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-21 14:50:09,882 [5] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-21 15:11:00,337 [8] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-09-21 15:11:33,801 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-21 15:18:39,021 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-22 09:06:17,200 [39] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-22 11:22:39,478 [87] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-22 11:24:39,448 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-22 11:30:38,904 [5] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-22 12:00:14,884 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-22 12:08:31,940 [11] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-22 12:15:00,141 [12] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-22 12:19:38,715 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-22 12:34:32,477 [8] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-09-22 12:35:27,442 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-22 12:45:58,092 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-22 12:50:22,546 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-22 12:55:08,983 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-22 13:00:45,178 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-22 13:28:02,385 [6] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-09-22 14:50:45,132 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-22 14:50:50,471 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-22 14:56:12,947 [9] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-09-22 14:57:53,090 [11] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-09-22 14:58:16,272 [34] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 09:16:57,279 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 09:23:04,299 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 09:56:36,896 [12] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 10:10:23,878 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 10:11:55,769 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 10:11:56,227 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 10:27:59,321 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 10:37:20,524 [12] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-09-23 10:37:21,569 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 10:38:43,069 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 10:49:30,406 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 10:54:59,118 [8] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-09-23 10:55:35,116 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 11:01:38,124 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 11:04:39,104 [5] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 11:25:32,379 [8] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-09-23 11:25:38,734 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 11:26:05,074 [12] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 11:34:09,663 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 11:46:31,677 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 11:47:47,413 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 12:00:13,329 [14] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 12:08:11,556 [8] ERROR ModificationHousingFeesAdmin.Controllers.HomeController -  Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-09-23 12:08:20,959 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 12:11:47,717 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 12:15:32,710 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 12:18:01,316 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 12:22:59,780 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 12:57:17,655 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 13:28:56,358 [13] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-09-23 13:28:57,614 [18] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 13:46:32,764 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 13:50:30,719 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 13:52:14,757 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 13:56:17,036 [14] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 13:58:41,427 [20] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 14:11:31,869 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 14:25:57,579 [6] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 14:28:30,485 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 14:40:19,439 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 14:44:03,441 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 14:52:55,429 [8] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-09-23 14:57:51,465 [14] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 15:05:14,470 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 15:10:33,088 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 15:15:00,497 [10] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-09-23 15:15:39,436 [16] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 15:25:41,189 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 15:29:09,474 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-23 15:53:54,413 [10] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-09-23 16:08:17,299 [24] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-26 08:44:56,287 [11] ERROR ModificationHousingFeesAdmin.Controllers.HomeController -  Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-09-26 08:45:06,972 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-26 09:06:27,912 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-26 10:44:15,570 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-26 12:07:12,902 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-26 12:53:03,262 [13] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-09-26 13:11:34,050 [8] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-09-26 13:11:55,491 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-26 13:12:11,342 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-26 13:19:52,357 [14] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-26 13:32:02,379 [9] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-09-26 13:33:19,458 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-26 13:38:44,857 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-26 13:44:59,019 [14] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-26 15:50:46,311 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-26 16:03:01,782 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-27 08:30:01,524 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-27 09:01:46,090 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-27 09:26:37,005 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-27 09:28:12,361 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-27 09:34:30,415 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-29 13:48:06,366 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-29 14:43:36,287 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-09-29 14:45:45,688 [8] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-09-29 14:46:44,275 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-02 17:07:21,035 [8] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-10-02 17:09:16,292 [8] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-10-02 17:12:23,617 [9] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-10-02 17:12:52,223 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-02 17:12:53,619 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - reach_tiniyal
+2021-10-02 17:29:27,196 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-02 17:29:27,212 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - reach_tiniyal
+2021-10-02 17:47:47,783 [30] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-10-02 17:49:02,463 [25] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-02 17:49:03,686 [25] INFO ModificationHousingFeesAdmin.Controllers.HomeController - reach_tiniyal
+2021-10-02 18:02:32,914 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-02 18:02:33,508 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - reach_tiniyal
+2021-10-02 18:02:33,554 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - data source=SDCLSPDB01,1536,1536;initial catalog=ModificationHousingFees;persist security info=True;user id=housingfees_stg ;password=faY1Tu@De;MultipleActiveResultSets=True;App=EntityFramework
+2021-10-02 18:02:34,234 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-02 18:58:18,252 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-02 18:58:18,270 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - reach_tiniyal
+2021-10-02 18:58:18,316 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - data source=SDCLSPDB01,1536,1536;initial catalog=ModificationHousingFees;persist security info=True;user id=housingfees_stg ;password=faY1Tu@De;MultipleActiveResultSets=True;App=EntityFramework
+2021-10-02 18:58:18,421 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-02 19:04:04,116 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-02 19:04:04,133 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - reach_tiniyal
+2021-10-02 19:04:04,177 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - data source=SDCLSPDB01,1536,1536;initial catalog=ModificationHousingFees;persist security info=True;user id=housingfees_stg ;password=faY1Tu@De;MultipleActiveResultSets=True;App=EntityFramework
+2021-10-02 19:04:04,256 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-02 19:08:35,444 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-02 19:08:35,461 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - reach_tiniyal
+2021-10-02 19:08:35,507 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - data source=SDCLSPDB01,1536,1536;initial catalog=ModificationHousingFees;persist security info=True;user id=housingfees_stg ;password=faY1Tu@De;MultipleActiveResultSets=True;App=EntityFramework
+2021-10-02 19:08:35,592 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-02 19:12:05,782 [8] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-10-02 19:19:02,456 [33] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-02 19:19:03,002 [33] INFO ModificationHousingFeesAdmin.Controllers.HomeController - reach_tiniyal
+2021-10-02 19:19:03,045 [33] INFO ModificationHousingFeesAdmin.Controllers.HomeController - data source=SDCLSPDB01,1536,1536;initial catalog=ModificationHousingFees;persist security info=True;user id=housingfees_stg ;password=faY1Tu@De;MultipleActiveResultSets=True;App=EntityFramework
+2021-10-02 19:19:03,774 [19] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-02 19:19:03,825 [19] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-02 19:57:23,773 [12] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-02 19:57:24,729 [12] INFO ModificationHousingFeesAdmin.Controllers.HomeController - reach_tiniyal
+2021-10-02 19:57:24,828 [12] INFO ModificationHousingFeesAdmin.Controllers.HomeController - data source=SDCLSPDB01,1536,1536;initial catalog=ModificationHousingFees;persist security info=True;user id=housingfees_stg ;password=faY1Tu@De;MultipleActiveResultSets=True;App=EntityFramework
+2021-10-02 19:57:26,233 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-02 19:57:26,357 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-03 10:03:47,777 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_shussain & ipAddress=::1
+2021-10-03 10:03:50,757 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - reach_shussain
+2021-10-03 10:03:52,334 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - data source=SDCLSPDB01,1536,1536;initial catalog=ModificationHousingFees;persist security info=True;user id=housingfees_stg ;password=faY1Tu@De;MultipleActiveResultSets=True;App=EntityFramework
+2021-10-03 10:03:56,025 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-03 10:03:56,064 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-03 10:06:12,414 [9] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= reach_shussain &ipAddress=::1
+2021-10-03 10:06:51,020 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_shussain & ipAddress=::1
+2021-10-03 10:06:51,658 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - reach_shussain
+2021-10-03 10:06:51,673 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - data source=SDCLSPDB01,1536,1536;initial catalog=ModificationHousingFees;persist security info=True;user id=housingfees_stg ;password=faY1Tu@De;MultipleActiveResultSets=True;App=EntityFramework
+2021-10-03 10:06:58,687 [25] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-03 10:07:07,510 [25] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-03 10:08:34,946 [24] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-03 10:08:34,961 [24] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-03 10:09:28,965 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-03 10:09:28,976 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-03 10:16:16,825 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-03 10:16:16,833 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - reach_tiniyal
+2021-10-03 10:16:16,863 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - data source=SDCLSPDB01,1536,1536;initial catalog=ModificationHousingFees;persist security info=True;user id=housingfees_stg ;password=faY1Tu@De;MultipleActiveResultSets=True;App=EntityFramework
+2021-10-03 10:16:18,275 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-03 10:16:18,319 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-03 10:26:02,047 [9] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-10-03 10:26:25,030 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-03 10:26:25,037 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - reach_tiniyal
+2021-10-03 10:26:25,061 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - data source=SDCLSPDB01,1536,1536;initial catalog=ModificationHousingFees;persist security info=True;user id=housingfees_stg ;password=faY1Tu@De;MultipleActiveResultSets=True;App=EntityFramework
+2021-10-03 10:26:26,233 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-03 10:26:26,270 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-03 10:27:08,628 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-03 10:27:08,636 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - reach_tiniyal
+2021-10-03 10:27:08,662 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - data source=SDCLSPDB01,1536,1536;initial catalog=ModificationHousingFees;persist security info=True;user id=housingfees_stg ;password=faY1Tu@De;MultipleActiveResultSets=True;App=EntityFramework
+2021-10-03 10:27:14,037 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-03 10:27:14,077 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-03 11:35:47,898 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-03 11:37:33,872 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - reach_tiniyal
+2021-10-03 11:37:52,451 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - data source=SDCLSPDB01,1536,1536;initial catalog=ModificationHousingFees;persist security info=True;user id=housingfees_stg ;password=faY1Tu@De;MultipleActiveResultSets=True;App=EntityFramework
+2021-10-03 11:38:27,222 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-03 11:39:00,297 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-03 12:52:24,142 [9] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-10-03 12:54:19,322 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-03 12:54:21,739 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - reach_tiniyal
+2021-10-03 12:54:21,775 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - data source=SDCLSPDB01,1536,1536;initial catalog=ModificationHousingFees;persist security info=True;user id=housingfees_stg ;password=faY1Tu@De;MultipleActiveResultSets=True;App=EntityFramework
+2021-10-03 12:54:23,132 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-03 12:54:23,197 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-03 13:02:02,216 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-03 13:02:05,096 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - reach_tiniyal
+2021-10-03 13:02:05,132 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - data source=SDCLSPDB01,1536,1536;initial catalog=ModificationHousingFees;persist security info=True;user id=housingfees_stg ;password=faY1Tu@De;MultipleActiveResultSets=True;App=EntityFramework
+2021-10-03 13:02:06,730 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-03 13:02:06,764 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-04 10:41:07,619 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-04 10:42:51,262 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - reach_tiniyal
+2021-10-04 10:42:51,318 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - data source=SDCLSPDB01,1536,1536;initial catalog=ModificationHousingFees;persist security info=True;user id=housingfees_stg ;password=faY1Tu@De;MultipleActiveResultSets=True;App=EntityFramework
+2021-10-04 10:42:53,071 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-04 10:42:53,125 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-04 11:07:11,854 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-04 11:07:15,397 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - reach_tiniyal
+2021-10-04 11:07:15,446 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - data source=SDCLSPDB01,1536,1536;initial catalog=ModificationHousingFees;persist security info=True;user id=housingfees_stg ;password=faY1Tu@De;MultipleActiveResultSets=True;App=EntityFramework
+2021-10-04 11:07:16,880 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-04 11:07:16,920 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-04 11:47:17,146 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-04 11:47:17,154 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - reach_tiniyal
+2021-10-04 11:47:17,183 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - data source=SDCLSPDB01,1536,1536;initial catalog=ModificationHousingFees;persist security info=True;user id=housingfees_stg ;password=faY1Tu@De;MultipleActiveResultSets=True;App=EntityFramework
+2021-10-04 11:47:17,216 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-04 11:47:17,253 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-04 12:00:11,811 [12] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-10-04 12:03:54,253 [14] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-04 12:03:54,254 [14] INFO ModificationHousingFeesAdmin.Controllers.HomeController - reach_tiniyal
+2021-10-04 12:03:54,281 [14] INFO ModificationHousingFeesAdmin.Controllers.HomeController - data source=SDCLSPDB01,1536,1536;initial catalog=ModificationHousingFees;persist security info=True;user id=housingfees_stg ;password=faY1Tu@De;MultipleActiveResultSets=True;App=EntityFramework
+2021-10-04 12:03:54,311 [18] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-04 12:03:54,353 [18] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-04 14:05:41,157 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-04 14:05:41,172 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - reach_tiniyal
+2021-10-04 14:05:41,230 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - data source=SDCLSPDB01,1536,1536;initial catalog=ModificationHousingFees;persist security info=True;user id=housingfees_stg ;password=faY1Tu@De;MultipleActiveResultSets=True;App=EntityFramework
+2021-10-04 14:05:41,287 [6] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-04 14:05:41,347 [6] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-04 14:45:43,218 [7] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-04 14:45:43,229 [7] INFO ModificationHousingFeesAdmin.Controllers.HomeController - reach_tiniyal
+2021-10-04 14:45:43,265 [7] INFO ModificationHousingFeesAdmin.Controllers.HomeController - data source=SDCLSPDB01,1536,1536;initial catalog=ModificationHousingFees;persist security info=True;user id=housingfees_stg ;password=faY1Tu@De;MultipleActiveResultSets=True;App=EntityFramework
+2021-10-04 14:45:43,309 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-04 14:45:43,357 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 146
+2021-10-04 15:08:44,792 [11] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-04 15:08:44,842 [11] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 146
+2021-10-04 15:08:58,356 [22] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-04 15:08:58,367 [22] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 146
+2021-10-05 08:57:54,722 [7] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-05 08:57:54,730 [7] INFO ModificationHousingFeesAdmin.Controllers.HomeController - reach_tiniyal
+2021-10-05 08:57:54,762 [7] INFO ModificationHousingFeesAdmin.Controllers.HomeController - data source=SDCLSPDB01,1536,1536;initial catalog=ModificationHousingFees;persist security info=True;user id=housingfees_stg ;password=faY1Tu@De;MultipleActiveResultSets=True;App=EntityFramework
+2021-10-05 08:57:54,806 [17] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-05 08:57:54,845 [17] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 146
+2021-10-05 13:14:52,669 [12] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-10-05 13:15:05,205 [16] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-05 13:15:05,206 [16] INFO ModificationHousingFeesAdmin.Controllers.HomeController - reach_tiniyal
+2021-10-05 13:15:05,241 [16] INFO ModificationHousingFeesAdmin.Controllers.HomeController - data source=SDCLSPDB01,1536,1536;initial catalog=ModificationHousingFees;persist security info=True;user id=housingfees_stg ;password=faY1Tu@De;MultipleActiveResultSets=True;App=EntityFramework
+2021-10-05 13:15:05,275 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-05 13:15:05,333 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 147
+2021-10-06 08:20:45,740 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-06 08:20:45,809 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-06 08:20:45,849 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 147
+2021-10-07 12:09:36,012 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-07 12:09:36,108 [12] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-07 12:09:36,158 [12] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 147
+2021-10-15 12:19:09,747 [8] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-10-15 12:19:17,954 [8] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-10-15 12:19:19,240 [10] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-10-15 12:20:36,477 [8] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= Reach_TIniyal &ipAddress=::1
+2021-10-15 12:43:08,311 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-15 12:43:08,455 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 149
+2021-10-15 12:43:19,616 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-15 12:43:19,707 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-15 12:43:19,733 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 149
+2021-10-15 12:46:41,073 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-15 12:46:41,103 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 149
+2021-10-17 10:37:51,838 [7] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-17 10:37:51,944 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-17 10:37:51,997 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-17 10:39:10,455 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-17 10:39:10,569 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-17 10:39:10,632 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-20 08:53:24,880 [10] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= reach_tiniyal &ipAddress=::1
+2021-10-20 08:53:28,045 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_tiniyal & ipAddress=::1
+2021-10-20 08:53:28,130 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-20 08:53:28,168 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 149
+2021-10-20 09:50:06,567 [30] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_tiniyal & ipAddress=::1
+2021-10-20 09:50:06,640 [32] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-20 09:50:06,679 [32] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 149
+2021-10-20 11:07:31,089 [29] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-20 11:07:31,153 [29] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-20 11:12:38,005 [45] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= reach_tiniyal &ipAddress=::1
+2021-10-24 08:55:41,562 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-24 08:55:41,636 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-24 08:55:41,678 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-24 09:08:14,322 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_tiniyal & ipAddress=::1
+2021-10-24 09:08:14,386 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-24 09:08:14,421 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-24 09:09:50,246 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-24 09:09:50,312 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-24 09:09:50,366 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-24 09:59:27,415 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-24 09:59:27,490 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-24 09:59:27,524 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-24 10:28:31,726 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-24 10:28:31,821 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-24 10:28:31,859 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-24 12:10:32,029 [24] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-24 12:10:32,101 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-24 12:10:32,139 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-24 14:18:57,650 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-24 14:18:57,730 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-24 14:18:57,775 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-24 14:23:29,765 [11] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-24 14:23:29,848 [15] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-24 14:23:29,921 [15] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-24 14:26:50,614 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-24 14:26:50,724 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-24 14:26:50,778 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-24 14:31:16,642 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-24 14:31:16,759 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-24 14:31:16,808 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-25 12:45:32,016 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-25 12:45:32,163 [15] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-25 12:45:32,235 [15] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-25 14:34:06,217 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-25 14:34:06,323 [11] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-25 14:34:06,364 [11] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-25 14:43:03,297 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-25 14:43:03,365 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-25 14:43:03,406 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-25 14:52:17,586 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-25 14:52:17,649 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-25 14:52:17,698 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-25 15:03:19,150 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-25 15:03:19,228 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-25 15:03:19,268 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-25 15:05:01,641 [11] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-25 15:05:01,748 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-25 15:05:01,807 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-25 15:11:36,155 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-25 15:11:36,279 [15] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-25 15:11:36,345 [15] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-26 13:00:59,716 [5] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-26 13:00:59,784 [7] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-26 13:00:59,825 [7] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-26 13:06:22,569 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-26 13:06:22,652 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-26 13:06:22,691 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 148
+2021-10-27 08:44:54,799 [12] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-27 08:44:54,905 [19] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-27 08:44:54,966 [19] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 149
+2021-10-27 13:13:38,264 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-27 13:13:38,360 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-27 13:13:38,412 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 150
+2021-10-27 13:16:01,473 [12] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-27 13:16:01,570 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-27 13:16:01,629 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 150
+2021-10-27 13:23:22,600 [12] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-27 13:23:22,693 [11] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-27 13:23:22,746 [11] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 150
+2021-10-31 13:29:47,794 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-31 13:29:47,880 [15] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-31 13:29:47,919 [15] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 151
+2021-10-31 13:29:48,672 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-31 13:29:48,704 [15] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-31 13:29:48,714 [15] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 151
+2021-10-31 13:32:41,986 [12] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-31 13:32:42,227 [15] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-31 13:32:42,288 [15] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 151
+2021-10-31 13:34:19,670 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-10-31 13:34:19,753 [15] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-10-31 13:34:19,806 [15] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 151
+2021-11-01 14:55:09,356 [15] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-11-01 14:55:09,433 [18] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-11-01 14:55:09,480 [18] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 151
+2021-11-17 11:30:14,294 [5] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-11-17 11:30:14,426 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-11-17 11:30:14,493 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 162
+2021-11-17 11:30:16,159 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-11-17 11:30:16,212 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-11-17 11:30:16,231 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 162
+2021-11-17 11:46:08,775 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-11-17 11:46:08,899 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-11-17 11:46:08,962 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 162
+2021-11-17 11:48:11,911 [8] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-11-17 11:48:12,410 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-11-17 11:48:12,526 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 162
+2021-11-22 09:00:40,398 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= Reach_TIniyal & ipAddress=::1
+2021-11-22 09:00:40,548 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-11-22 09:00:40,633 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 163
+2021-12-07 16:56:43,926 [6] ERROR ModificationHousingFeesAdmin.Controllers.HomeController -  Your credentials is not valid as per active directory  USER_NAME= admin  &ipAddress=::1
+2021-12-07 17:27:55,414 [10] ERROR ModificationHousingFeesAdmin.Controllers.HomeController -  You are not authorized to access the application rapid_vkumar &ipAddress=::1
+2021-12-07 17:29:18,555 [12] ERROR ModificationHousingFeesAdmin.Controllers.HomeController -  You are not authorized to access the application rapid_vkumar &ipAddress=::1
+2021-12-09 17:02:50,532 [11] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_psundaram@dm.gov.ae & ipAddress=::1
+2021-12-09 17:02:50,744 [11] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - An error occurred while updating the entries. See the inner exception for details.
+2021-12-09 17:02:50,764 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-12-09 17:02:50,833 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 163
+2021-12-09 17:37:38,933 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_psundaram@dm.gov.ae & ipAddress=::1
+2021-12-09 17:37:39,051 [9] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - An error occurred while updating the entries. See the inner exception for details.
+2021-12-09 17:37:39,070 [11] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-12-09 17:37:39,116 [11] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 163
+2021-12-09 17:41:46,745 [7] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_psundaram@dm.gov.ae & ipAddress=::1
+2021-12-09 17:41:46,906 [7] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - An error occurred while updating the entries. See the inner exception for details.
+2021-12-09 17:41:46,923 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-12-09 17:41:46,966 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 163
+2021-12-09 18:37:16,292 [12] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_psundaram@dm.gov.ae & ipAddress=::1
+2021-12-09 18:37:16,400 [12] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - An error occurred while updating the entries. See the inner exception for details.
+2021-12-09 18:37:16,419 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-12-09 18:37:16,468 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 163
+2021-12-09 18:39:39,365 [11] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-12-09 18:39:39,378 [11] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 163
+2021-12-09 18:53:23,478 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_psundaram@dm.gov.ae & ipAddress=::1
+2021-12-09 18:53:23,583 [10] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - An error occurred while updating the entries. See the inner exception for details.
+2021-12-09 18:53:23,602 [11] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-12-09 18:53:23,649 [11] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 163
+2021-12-09 18:53:28,050 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_psundaram@dm.gov.ae & ipAddress=::1
+2021-12-09 18:53:28,142 [10] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - An error occurred while updating the entries. See the inner exception for details.
+2021-12-09 18:53:28,151 [12] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-12-09 18:53:28,160 [12] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 163
+2021-12-09 18:57:47,861 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_psundaram@dm.gov.ae & ipAddress=::1
+2021-12-09 18:57:47,967 [9] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - An error occurred while updating the entries. See the inner exception for details.
+2021-12-09 18:57:47,986 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-12-09 18:57:48,031 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 163
+2021-12-09 18:58:39,349 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_psundaram@dm.gov.ae & ipAddress=::1
+2021-12-09 18:58:39,437 [9] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - An error occurred while updating the entries. See the inner exception for details.
+2021-12-09 18:58:39,448 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-12-09 18:58:39,458 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 163
+2021-12-09 19:09:13,563 [40] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_psundaram@dm.gov.ae & ipAddress=::1
+2021-12-09 19:09:13,634 [40] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - An error occurred while updating the entries. See the inner exception for details.
+2021-12-09 19:09:13,645 [47] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-12-09 19:09:13,654 [47] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 163
+2021-12-09 19:13:01,173 [52] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_psundaram@dm.gov.ae & ipAddress=::1
+2021-12-09 19:13:01,240 [52] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - An error occurred while updating the entries. See the inner exception for details.
+2021-12-09 19:13:01,250 [56] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-12-09 19:13:01,259 [56] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 163
+2021-12-09 19:23:42,982 [83] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_psundaram@dm.gov.ae & ipAddress=::1
+2021-12-09 19:23:43,040 [83] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - An error occurred while updating the entries. See the inner exception for details.
+2021-12-09 19:23:43,050 [76] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-12-09 19:23:43,061 [76] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 163
+2021-12-09 19:39:00,360 [9] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_psundaram@dm.gov.ae & ipAddress=::1
+2021-12-09 19:39:00,469 [9] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - An error occurred while updating the entries. See the inner exception for details.
+2021-12-09 19:39:00,486 [11] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-12-09 19:39:00,531 [11] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 163
+2021-12-12 11:09:29,273 [10] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_psundaram@dm.gov.ae & ipAddress=::1
+2021-12-12 11:09:29,435 [10] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - An error occurred while updating the entries. See the inner exception for details.
+2021-12-12 11:09:29,464 [11] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-12-12 11:09:29,527 [11] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 163
+2021-12-12 11:28:02,418 [12] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_psundaram@dm.gov.ae & ipAddress=::1
+2021-12-12 11:28:02,533 [12] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - An error occurred while updating the entries. See the inner exception for details.
+2021-12-12 11:28:02,552 [11] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-12-12 11:28:02,604 [11] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 163
+2021-12-12 13:10:56,726 [11] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_psundaram@dm.gov.ae & ipAddress=::1
+2021-12-12 13:10:56,818 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-12-12 13:10:56,873 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 163
+2021-12-12 13:13:31,880 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-12-12 13:13:31,897 [13] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 163
+2021-12-12 13:31:28,332 [64] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-12-12 13:31:28,352 [64] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 161
+2021-12-12 13:37:04,276 [77] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_psundaram@dm.gov.ae & ipAddress=::1
+2021-12-12 13:37:04,294 [79] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-12-12 13:37:04,304 [79] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 161
+2021-12-12 14:16:37,250 [82] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-12-12 14:16:37,283 [82] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 159
+2021-12-12 14:16:53,761 [80] INFO ModificationHousingFeesAdmin.Controllers.HomeController -  login successfully  USER_NAME= reach_psundaram@dm.gov.ae & ipAddress=::1
+2021-12-12 14:16:53,775 [76] INFO ModificationHousingFeesAdmin.Controllers.HomeController - into index
+2021-12-12 14:16:53,783 [76] INFO ModificationHousingFeesAdmin.Controllers.HomeController - 159
+2021-12-12 18:47:12,582 [7] ERROR ModificationHousingFeesAdmin.Controllers.HomeController - Your credentials is not valid as per active directory  USER_NAME= reach_psundaram@dm.gov.ae &ipAddress=::1

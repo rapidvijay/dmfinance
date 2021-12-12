@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://service.soap.ws.email.dm.ae/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="emailService" targetNamespace="http://service.soap.ws.email.dm.ae/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <wsp1_2:Policy xmlns:wsp1_2="http://schemas.xmlsoap.org/ws/2004/09/policy" wsu:Id="emailServicePortBindingPolicy">
+    <wsp1_2:ExactlyOne>
+      <wsp1_2:All>
+        <ns1:OptimizedMimeSerialization xmlns:ns1="http://schemas.xmlsoap.org/ws/2004/09/policy/optimizedmimeserialization" />
+      </wsp1_2:All>
+    </wsp1_2:ExactlyOne>
+  </wsp1_2:Policy>
+  <types>
+    <xsd:schema>
+      <xsd:import schemaLocation="http://bexml10.dm.gov.ae:38081/DMIntegrationWebServices/emailService?xsd=1" namespace="http://service.soap.ws.email.dm.ae/" />
+    </xsd:schema>
+  </types>
+  <message name="sendEmail">
+    <part name="parameters" element="tns:sendEmail" />
+  </message>
+  <message name="sendEmailResponse">
+    <part name="parameters" element="tns:sendEmailResponse" />
+  </message>
+  <message name="MissingEmailDataException">
+    <part name="fault" element="tns:MissingEmailDataException" />
+  </message>
+  <message name="NotValidEmailException">
+    <part name="fault" element="tns:NotValidEmailException" />
+  </message>
+  <message name="sendEmailToMultipleRecipients">
+    <part name="parameters" element="tns:sendEmailToMultipleRecipients" />
+  </message>
+  <message name="sendEmailToMultipleRecipientsResponse">
+    <part name="parameters" element="tns:sendEmailToMultipleRecipientsResponse" />
+  </message>
+  <portType name="emailService">
+    <operation name="sendEmail">
+      <input message="tns:sendEmail" />
+      <output message="tns:sendEmailResponse" />
+      <fault name="MissingEmailDataException" message="tns:MissingEmailDataException" />
+      <fault name="NotValidEmailException" message="tns:NotValidEmailException" />
+    </operation>
+    <operation name="sendEmailToMultipleRecipients">
+      <input message="tns:sendEmailToMultipleRecipients" />
+      <output message="tns:sendEmailToMultipleRecipientsResponse" />
+      <fault name="MissingEmailDataException" message="tns:MissingEmailDataException" />
+      <fault name="NotValidEmailException" message="tns:NotValidEmailException" />
+    </operation>
+  </portType>
+  <binding name="emailServicePortBinding" type="tns:emailService">
+    <ns2:PolicyReference xmlns:ns2="http://schemas.xmlsoap.org/ws/2004/09/policy" URI="#emailServicePortBindingPolicy" />
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <operation name="sendEmail">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+      <fault name="MissingEmailDataException">
+        <soap:fault use="literal" name="MissingEmailDataException" namespace="" />
+      </fault>
+      <fault name="NotValidEmailException">
+        <soap:fault use="literal" name="NotValidEmailException" namespace="" />
+      </fault>
+    </operation>
+    <operation name="sendEmailToMultipleRecipients">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+      <fault name="MissingEmailDataException">
+        <soap:fault use="literal" name="MissingEmailDataException" namespace="" />
+      </fault>
+      <fault name="NotValidEmailException">
+        <soap:fault use="literal" name="NotValidEmailException" namespace="" />
+      </fault>
+    </operation>
+  </binding>
+  <service name="emailService">
+    <port name="emailServicePort" binding="tns:emailServicePortBinding">
+      <soap:address location="http://bexml10.dm.gov.ae:38081/DMIntegrationWebServices/emailService" />
+    </port>
+  </service>
+</definitions>

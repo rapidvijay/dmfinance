@@ -1,0 +1,850 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Hi</title>
+
+    <link href="../Content/css/materialize.min.css" rel="stylesheet" />
+    <link href="../Content/css/custom-styles.css" rel="stylesheet" />
+
+
+
+    <script src="../Scripts/angular.js"></script>
+    <script src="../Scripts/angular.min.js"></script>
+    <script src="../Scripts/angular-mocks.js"></script>
+  
+
+    <script src="../Content/js/ui-bootstrap-tpls-2.5.0.min.js"></script>
+    <script src="../Content/js/viewIntegrationDetails.js"></script>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        /* Float four columns side by side */
+        .column {
+            float: right;
+            padding: 0 10px;
+            height: initial;
+        }
+
+        .column1 {
+            margin-top: 30px;
+            padding-left: 10px;
+        }
+        /* Remove extra left and right margins, due to padding */
+        .row {
+            margin: 0 -5px;
+        }
+
+            /* Clear floats after the columns */
+            .row:after {
+                content: "";
+                display: table;
+                clear: both;
+            }
+
+        /* Responsive columns */
+        @media screen and (max-width: 600px) {
+            .column {
+                width: 100%;
+                display: block;
+                margin-bottom: 20px;
+            }
+        }
+
+        /* Style the counter cards */
+        .card {
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            padding: 16px;
+            text-align: left;
+            background-color: #f1f1f1;
+            width: 90%
+        }
+
+        .p-style {
+            font-size: 15px;
+            color: #09cc40;
+            margin-left: 20px;
+            text-decoration-color: #09cc40;
+        }
+
+        .p-style-normal {
+            font-size: 12px;
+            color: gray;
+            margin-left: 20px;
+            text-decoration-color: gray;
+        }
+
+        .lbl-style {
+            font-size: 12px;
+            text-align: left;
+            color: gray;
+            text-decoration-color: gray;
+        }
+
+        .popup_head {
+            width: 100%;
+            margin: 0 auto;
+            padding-left: 25px;
+            padding-right: 25px;
+            background: #060f83;
+            margin-top: -21px;
+            color: white;
+            border: 0;
+            font-weight: normal;
+            font-size: 15px;
+            height: 34px;
+            padding-top: 4px;
+        }
+
+        .popup_divhead {
+            width: 100%;
+            margin: 0 auto;
+            padding-left: 25px;
+            padding-right: 25px;
+            background: #060f83;
+            border-radius: 20px !important;
+            color: white;
+            border: 0;
+            font-weight: normal;
+            height: 34px;
+            padding-top: 6px;
+        }
+
+        .table {
+            width: 100%;
+        }
+
+        .table, tr {
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        }
+
+        .table, tr, td {
+            font-size: 10px;
+            padding: 0px,0px;
+            height: 15px;
+        }
+    </style>
+
+</head>
+
+<body>
+
+
+
+    <div style="margin-top:10px;">
+        <div class="popup_head">
+            EJARI Details
+
+
+        </div>
+        <p style="font-size: 10px;">
+
+            RegisteredBy: {{EjariRegisteredBy}}
+        </p>
+
+    </div>
+
+
+
+    <div class="panel_main">
+        <div class="popup_divhead">
+            Owner Company Details
+
+
+        </div>
+        <div class="panel_content">
+
+            <table>
+                <tr>
+
+                    <td style="text-align:left">
+                        OwnerCompanyName : {{ Ejariownercompen }}
+                    </td>
+                    <td style="text-align:right">
+                        اسم الشركة المالكة: {{Ejariownercompr}}
+                    </td>
+                </tr>
+                <tr>
+
+                    <td style="text-align:left">
+                        License Number : {{ Ejariownerlcno }}
+                    </td>
+                    <td style="text-align:right">
+                        رقم الرخصة: {{Ejariownerlcno}}
+                    </td>
+                </tr>
+            </table>
+
+        </div>
+
+    </div>
+    <div class="panel_main">
+        <div class="popup_divhead">
+            Owner  Details
+
+
+        </div>
+        <div class="panel_content">
+
+            <table>
+                <tr>
+
+                    <td style="text-align:left">
+                        OwnerName : {{ OwnerNameen }}
+                    </td>
+                    <td style="text-align:right">
+                        اسم المالك: {{OwnerNamear}}
+                    </td>
+                </tr>
+                <tr>
+
+
+                    <td style="text-align:left">
+                        Nationality : {{ OwnerNationlaity }}
+                    </td>
+
+
+                    <td style="text-align:left">
+                        Email: {{ OwnerEmail }}
+                    </td>
+                </tr>
+                <tr>
+
+
+                    <td style="text-align:left">
+                        EmiratesID : {{ OwnerEmiratesId }}
+                    </td>
+
+
+                    <td style="text-align:left">
+                        Mobile: {{ OwnerMobile }}
+                    </td>
+                </tr>
+                <tr>
+
+
+                    <td style="text-align:left">
+                        Number : {{ OwnerNumber }}
+                    </td>
+
+
+                    <td style="text-align:left">
+                        POBox: {{ OwnerPOBox }}
+                    </td>
+                </tr>
+                <tr>
+
+
+                    <td style="text-align:left">
+                        PlaceOfBirth : {{ OwnerPlaceOfBirthEn }}
+                    </td>
+
+
+                    <td style="text-align:left">
+                        UniqueNumber: {{ OwnerUniqNumber }}
+                    </td>
+                </tr>
+                <tr>
+
+
+                    <td style="text-align:left">
+                        PassportIssuePlace : {{ OwnerPassportIssuePlaceEn }}
+                    </td>
+
+
+                    <td style="text-align:left">
+                        PassportExpiryDate: {{ OwnerPassportExpiryDate }}
+                    </td>
+                </tr>
+            </table>
+
+        </div>
+
+    </div>
+    <div class="panel_main">
+        <div class="popup_divhead">
+            Contract Details
+
+
+        </div>
+        <div class="panel_content">
+
+            <table>
+                <tr>
+
+                    <td style="text-align:left">
+                        ContractId:     {{ EjariContractId }}
+                    </td>
+                    <td style="text-align:left">
+                        Contract Number :    {{ EjariContractNumber }}
+                    </td>
+
+                    <td style="text-align:right">
+                        Contract Status :  {{ EjariContractStatus }}
+                    </td>
+                    <td style="text-align:left">
+                        Contract Version:   {{ EjariContractVersion }}
+                    </td>
+
+
+                </tr>
+                <tr>
+
+
+                    <td style="text-align:left">
+                        IsSubLease:    {{ EjariIsSubLease }}
+                    </td>
+
+                    <td style="text-align:left">
+                        Contract Type:   {{ EjariContractType }}
+                    </td>
+                    <td style="text-align:center">
+                        Tenant Type:     {{ EjariTenantType }}
+                    </td>
+
+                </tr>
+
+
+
+            </table>
+
+        </div>
+
+    </div>
+    <div class="panel_main">
+        <div class="popup_divhead">
+            Associated  Contract Details
+
+
+        </div>
+        <div class="panel_content">
+
+            <table>
+                <tr>
+
+                    <td style="text-align:left">
+                        Starting Date :
+                    </td>
+                    <td style="text-align:center">
+                        {{ CntStartDate }}
+                    </td>
+                    <td style="text-align:right">
+                        تاريخ البدء:
+                    </td>
+                    <td style="text-align:left">
+                        Ending Date :
+                    </td>
+                    <td style="text-align:center">
+
+                        {{ CntEndDate }}
+                    </td>
+                    <td style="text-align:right">
+                        تاريخ الانتهاء :
+                    </td>
+                </tr>
+                <tr>
+
+                    <td style="text-align:left">
+                        Contract Amount :
+                    </td>
+                    <td style="text-align:center">
+                        {{ Contractamt }}
+                    </td>
+                    <td style="text-align:right">
+                        قيمة العقد :
+                    </td>
+
+                    <td style="text-align:left">
+                        Security Deposit :
+                    </td>
+                    <td style="text-align:center">
+                        {{ Secdpt }}
+                    </td>
+                    <td style="text-align:right">
+                        مبلغ التأمين :
+                    </td>
+                </tr>
+                <tr>
+
+                    <td style="text-align:left">
+                        Actual Contract Amount :
+                    </td>
+                    <td style="text-align:center">
+                        {{ ActualContAmt }}
+                    </td>
+                    <td style="text-align:right">
+                        مبلغ العقد الفعلي :
+                    </td>
+
+                    <td style="text-align:left">
+                        Annual Contract Amount :
+                    </td>
+                    <td style="text-align:center">
+                        {{ AnnualContAmt }}
+                    </td>
+                    <td style="text-align:right">
+                        مبلغ العقد السنوي :
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:left">
+                        Rent Amount :
+                    </td>
+                    <td style="text-align:center">
+                        {{ RentAmt }}
+                    </td>
+                    <td style="text-align:right">
+                        مقدار الايجار:
+                    </td>
+
+                    <td style="text-align:left">
+                        Registration Date :
+                    </td>
+                    <td style="text-align:center">
+                        {{ RegistrationDate }}
+                    </td>
+                    <td style="text-align:right">
+                        تاريخ التسجيل:
+                    </td>
+
+                </tr>
+            </table>
+
+        </div>
+
+    </div>
+
+
+    <div class="panel_main">
+        <div class="popup_divhead">
+            Associated Property Details
+
+
+        </div>
+        <div class="panel_content">
+
+            <table>
+                <tr>
+
+                    <td style="text-align:left">
+                        Building Name :   {{ AssPropBldname }}
+                    </td>
+
+
+                    <td style="text-align:right">
+                        LandArea: {{ AssPropLandArea }}
+                    </td>
+
+
+                </tr>
+
+                <tr>
+
+                    <td style="text-align:left">
+                        Land DM Number:  {{ AssPropLandDMNo }}
+                    </td>
+
+                    <td style="text-align:right">
+                        Land Number:     {{ AssPropLandNo }}
+                    </td>
+
+                </tr>
+                <tr>
+
+                    <td style="text-align:left">
+                        Property Type:        {{ AssProptype }}
+                    </td>
+
+
+                    <td style="text-align:right">
+                        UAENG Number:    {{ AssPropuaengno }}
+                    </td>
+
+                </tr>
+                <tr>
+                    <td colspan="2" style="text-align:center;background-color:darkgray">
+                        PropertyListItems
+                    </td>
+                </tr>
+                <tr>
+
+                    <td style="text-align:left">
+                        Approval Reference Number:  {{ AppRefNo }}
+                    </td>
+
+                    <td style="text-align:right">
+                        DEWA:  {{ Dewa }}
+                    </td>
+
+
+                </tr>
+
+                <tr>
+                    <td style="text-align:left">
+                        Ejari Property Id:   {{ EjariPropertyId }}
+                    </td>
+
+                    <td style="text-align:right">
+                        Property Number:  {{ PropertyNumber }}
+                    </td>
+
+
+                </tr>
+
+                <tr>
+                    <td style="text-align:left">
+                        Property Sub Type: {{ PropertySubType }}
+                    </td>
+
+                    <td style="text-align:right">
+                        Property Type: {{ PropertyType }}
+                    </td>
+
+
+                </tr>
+
+                <tr>
+                    <td style="text-align:left">
+                        Usage:
+                        {{ Usage }}
+                    </td>
+
+                    <td style="text-align:right">
+                        Size:{{ Size }}
+                    </td>
+
+
+                </tr>
+            </table>
+
+        </div>
+
+    </div>
+
+
+    <div class="panel_main">
+        <div class="popup_divhead">
+            Associated Lessor Company Details
+
+
+        </div>
+        <div class="panel_content">
+
+            <table>
+                <tr>
+
+                    <td style="text-align:left">
+                        LessorCompanyName : {{ LessorCompNameen }}
+                    </td>
+                    <td colspan="2" style="text-align:right">
+                        اسم الشركة المؤجر: {{LessorCompNamear}}
+                    </td>
+                </tr>
+
+                <tr>
+
+                    <td style="text-align:left">
+                        ContactPerson Name : {{ LessorContactPersonen }}
+                    </td>
+                    <td colspan="2" style="text-align:right">
+                        اسم شخص الاتصال : {{LessorContactPersonar}}
+                    </td>
+                </tr>
+                <tr>
+
+                    <td style="text-align:left">
+                        License Number  : {{ LessorComplcno }}
+                    </td>
+                    <td colspan="2" style="text-align:right">
+                        رقم الرخصة: {{LessorComplcno}}
+                    </td>
+                </tr>
+
+                <tr>
+
+                    <td style="text-align:left">
+                        Mobile:   {{ LessorMobile }}
+                    </td>
+
+
+                    <td style="text-align:left">
+                        Email: {{ LessorEmail }}
+                    </td>
+                    <td style="text-align:right">
+                        Fax: {{ LessorFax }}
+                    </td>
+
+
+                </tr>
+
+                <tr>
+
+                    <td style="text-align:left">
+                        License ExpiryDate:   {{ LessorLicenseExpiryDate }}
+                    </td>
+                    <td style="text-align:left">
+                        License Issuer: {{ LessorLicenseIssuer }}
+                    </td>
+                    <td style="text-align:right">
+                        License IssueDate: {{ LessorLicenseIssueDate}}
+                    </td>
+
+
+                </tr>
+                <tr>
+
+                    <td style="text-align:left">
+                        Phone:   {{ LessorPhone }}
+                    </td>
+
+
+                    <td style="text-align:left">
+                        PoBox: {{ LessorPoBox }}
+                    </td>
+               
+
+
+                </tr>
+            </table>
+
+        </div>
+
+    </div>
+
+
+    <div class="panel_main">
+        <div class="popup_divhead">
+            Associated Tenant Company Details
+
+
+        </div>
+        <div class="panel_content">
+
+            <table>
+                <tr>
+
+                    <td style="text-align:left">
+                        TenantName : {{ EjariTenantCompen }}
+                    </td>
+                    <td colspan="2" style="text-align:right">
+                        اسم المستأجر: {{EjariTenantCompar}}
+                    </td>
+                </tr>
+
+                <tr>
+
+                    <td style="text-align:left">
+                        ContactPerson Name : {{ TenantCompContactPersonen }}
+                    </td>
+                    <td colspan="2" style="text-align:right">
+                        اسم شخص الاتصال : {{TenantCompContactPersonar}}
+                    </td>
+                </tr>
+                <tr>
+
+                    <td style="text-align:left">
+                        License Number  : {{ EjariTenantComplcno }}
+                    </td>
+                    <td colspan="2" style="text-align:right">
+                        رقم الرخصة: {{EjariTenantComplcno}}
+                    </td>
+                </tr>
+
+                <tr>
+
+                    <td style="text-align:left">
+                        DedReferenceType:   {{ TenantCompDedReferenceType }}
+                    </td>
+
+
+                    <td style="text-align:left">
+                        Email: {{ TenantCompEmail }}
+                    </td>
+                    <td style="text-align:right">
+                        Fax: {{ TenantCompFax }}
+                    </td>
+
+
+                </tr>
+
+                <tr>
+
+                    <td style="text-align:left">
+                        License ExpiryDate:   {{ TenantCompLicenseExpiryDate }}
+                    </td>
+                    <td style="text-align:left">
+                        License Issuer: {{ TenantCompLicenseIssuer }}
+                    </td>
+                    <td style="text-align:right">
+                        Mobile: {{ TenantCompMobile }}
+                    </td>
+
+
+                </tr>
+                <tr>
+
+                    <td style="text-align:left">
+                        Phone:   {{ TenantCompPhone }}
+                    </td>
+
+
+                    <td style="text-align:left">
+                        PoBox: {{ TenantCompPoBox }}
+                    </td>
+                    <td style="text-align:right">
+                        TenantNo: {{ TenantCompTenantNo }}
+                    </td>
+
+
+                </tr>
+            </table>
+
+        </div>
+
+    </div>
+
+
+    <div class="panel_main">
+        <div class="popup_divhead">
+            Associated Tenant Person Details
+
+
+        </div>
+        <div class="panel_content">
+
+            <table>
+                <tr>
+
+                    <td style="text-align:left">
+                        TenantName : {{ AssociatedTenantnameen }}
+                    </td>
+                    <td colspan="2" style="text-align:right">
+                        اسم المستأجر: {{AssociatedTenantnamear}}
+                    </td>
+                </tr>
+
+                <!--<tr>
+
+                    <td style="text-align:left">
+                        ContactPerson Name : {{ AssociatedTenantCtpersonen }}
+                    </td>
+                    <td colspan="2" style="text-align:right">
+                        اسم شخص الاتصال : {{AssociatedTenantCtpersonar}}
+                    </td>
+                </tr>-->
+                <!--<tr>
+
+                    <td style="text-align:left">
+                        License Number  : {{ AssociatedTenantnlicno }}
+                    </td>
+                    <td colspan="2" style="text-align:right">
+                        رقم الرخصة: {{AssociatedTenantnlicno}}
+                    </td>
+                </tr>-->
+
+                <tr>
+
+
+
+
+                    <td style="text-align:left">
+                        Email: {{ TenantEmail }}
+                    </td>
+                    <!--<td style="text-align:left">
+                        License State : {{ TenantLicenseState }}
+                    </td>-->
+                    <td style="text-align:left">
+                        Fax: {{ TenantFax }}
+                    </td>
+                    <td style="text-align:left">
+                        Mobile: {{ TenantMobile }}
+                    </td>
+
+                </tr>
+
+                <tr>
+
+                    <!--<td style="text-align:left">
+                        License ExpiryDate:   {{ TenantLicenseExpiryDate }}
+                    </td>
+                    <td style="text-align:left">
+                        License Issuer: {{ TenantLicenseIssuer }}
+                    </td>-->
+
+                    <td style="text-align:left">
+                        Nationality : {{ TenantNationality }}
+                    </td>
+                    <td style="text-align:left">
+                        EmiratesID : {{ TenantEmiratesId }}
+                    </td>
+
+                    <td style="text-align:left">
+                        PassportNumber : {{ TenantPassportNumber }}
+                    </td>
+
+
+                </tr>
+                <tr>
+
+                    <td style="text-align:left">
+                        VisaNumber : {{ TenantVisaNumber }}
+                    </td>
+                    <td style="text-align:left">
+                        VisaExpiryDate : {{ TenantVisaExpiryDate }}
+                    </td>
+
+                    <td style="text-align:left">
+                        PassportExpiryDate : {{ TenantPassportExpiryDate }}
+                    </td>
+
+
+                </tr>
+                <tr>
+
+                    <td style="text-align:left">
+                        Phone:   {{ TenantPhone }}
+                    </td>
+
+
+                    <td style="text-align:left">
+                        PoBox: {{ TenantPoBox }}
+                    </td>
+                    <td style="text-align:left">
+                        Address: {{ TenantAddress }}
+                    </td>
+
+
+                </tr>
+                <tr>
+                    <td style="text-align:left">
+                        PassportIssuePlace : {{ TenantPassportIssuePlaceEn }}
+                    </td>
+                    <td colspan="2" style="text-align:left">
+                        TenantNumber : {{ TenantNumber }}
+                    </td>
+
+                </tr>
+            </table>
+
+        </div>
+
+    </div>
+
+
+
+    <div>
+        <button class="btn btn-primary" type="button"
+                ng-click="close()">
+            Cancel
+        </button>
+    </div>
+
+
+</body>
+</html>

@@ -1,0 +1,120 @@
+﻿@model ModificationHousingFeesAdmin.Models.Property_Types
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2 main">
+
+
+    <div class="breadcrumb flat">
+        <a href="#" style="cursor: default">
+            <em class="fa fa-home"></em>
+        </a>
+
+        <a href="#" style="cursor: default" class="active">Edit Property</a>
+    </div>
+
+
+
+    <div class="panel panel-default">
+        <div class="panel-heading">Edit Property</div>
+        <div class="panel-body">
+
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+            <div class="form-horizontal">
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                @Html.HiddenFor(model => model.Id, new { @id = "hiddenPropertyId" })
+                @Html.HiddenFor(model => model.Created_By)
+                @Html.HiddenFor(model => model.Creation_Date)
+                <input type="hidden" value="@ViewBag.areaIds" id="areaIds" name="areaIds" />
+                <input type="hidden" id="displayId" value="@ViewBag.display" name="displayId" />
+
+                <div class="form-group">
+
+                    <label class="control-label col-sm-3" for="">Arabic Name</label>
+                    <div class="col-md-9">
+                        @Html.EditorFor(model => model.Arabic_Name, new { htmlAttributes = new { @class = "form-control", @required = "true", @maxlength = "50" } })
+                        @Html.ValidationMessageFor(model => model.Arabic_Name, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+
+                    <label class="control-label col-sm-3" for="">English Name</label>
+                    <div class="col-md-9">
+                        @Html.EditorFor(model => model.English_Name, new { htmlAttributes = new { @class = "form-control", @required = "true", @maxlength = "50" } })
+                        @Html.ValidationMessageFor(model => model.English_Name, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="panel panel-primary list-panel" id="list-panel">
+                            <div class="panel-heading list-panel-heading">
+                                <button type="button" class="btn btn-add btn-info btn-md" data-toggle="modal" data-url="@Url.Action("addArea")" id="btnCreateArea">
+                                    <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span> Add Area
+                                </button>
+                             
+                            </div>
+                            <div class="panel-body">
+                                <table id="areas-data-table" class="add_area table table-striped table-bordered" style="width:100%;"></table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Save" class="btn btn-primary" />
+                        @Html.ActionLink("Show Properties", "Index", null, new { @class = "btn btn-info" })
+                    </div>
+                </div>
+            </div>
+
+                 <div class="modal fade" id="CreateAreaModal" tabindex="-1" role="dialog" aria-labelledby="CreateAreaModal" aria-hidden="true" data-backdrop="static">
+                
+                    <div id="createAreaContainer">
+                    </div>
+                    
+                  </div>
+
+
+                }
+
+                <div>
+
+                </div>
+
+
+                <div class="row">
+
+
+
+
+
+
+                </div><!--/.row-->
+            </div>	<!--/.main-->
+
+
+   
+
+    </div>
+
+
+    <script>
+
+
+
+
+    </script>
+
+</div>
